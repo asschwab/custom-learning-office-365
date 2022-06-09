@@ -179,7 +179,17 @@
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Microsoft",
+          "SubCategories": [
+          {
+          "Id": "c316d45c-e7c4-11ec-8fea-0242ac120002",
+          "Name": "Level 2",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Microsoft",
           "SubCategories": []
+        }
+          ]
         }
       ]
     }
