@@ -2,7 +2,7 @@
   {
     "Id": "e99e2622-ec8b-11ec-8ea0-0242ac120002",
     "Title": "What's New in Microsoft Teams?",
-    "Image": "images/playlists/six_simple_steps_-_welcome_to_office_365.png",
+    "Image": "images/playlists/whats-new-whats-changed.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -26,7 +26,7 @@
   {
     "Id": "e99e28a2-ec8b-11ec-8ea0-0242ac120002",
     "Title": "Introduction to Microsoft Teams",
-    "Image": "images/playlists/six_simple_steps_-_welcome_to_office_365.png",
+    "Image": "images/playlists/intro_to_microsoft_teams.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -46,7 +46,7 @@
   {
     "Id": "e99e2d0c-ec8b-11ec-8ea0-0242ac120002",
     "Title": "Organizing Your Teams",
-    "Image": "images/playlists/six_simple_steps_-_welcome_to_office_365.png",
+    "Image": "images/playlists/teams_quick_start.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -68,7 +68,7 @@
   {
     "Id": "e99e2e24-ec8b-11ec-8ea0-0242ac120002",
     "Title": "Becoming a Member",
-    "Image": "images/playlists/six_simple_steps_-_welcome_to_office_365.png",
+    "Image": "images/playlists/modern_workplace_trainingx.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -89,7 +89,7 @@
   {
     "Id": "e99e3126-ec8b-11ec-8ea0-0242ac120002",
     "Title": "Team Members",
-    "Image": "images/playlists/six_simple_steps_-_welcome_to_office_365.png",
+    "Image": "images/playlists/teams_walkie.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -109,7 +109,7 @@
   {
     "Id": "e99e3360-ec8b-11ec-8ea0-0242ac120002",
     "Title": "Creating and Organizing Channels",
-    "Image": "images/playlists/six_simple_steps_-_welcome_to_office_365.png",
+    "Image": "images/playlists/create_impactful_content_together.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -136,7 +136,7 @@
   {
     "Id": "e99e3536-ec8b-11ec-8ea0-0242ac120002",
     "Title": "Editing Channels",
-    "Image": "images/playlists/six_simple_steps_-_welcome_to_office_365.png",
+    "Image": "images/playlists/write_and_edit.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",

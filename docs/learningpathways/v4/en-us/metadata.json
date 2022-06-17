@@ -167,7 +167,7 @@
     {
       "Id": "e99e3644-ec8b-11ec-8ea0-0242ac120002",
       "Name": "Teams",
-      "Image": "",
+      "Image": "images/categories/teams.png",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Microsoft",
@@ -175,7 +175,7 @@
         {
           "Id": "e99e79ce-ec8b-11ec-8ea0-0242ac120002",
           "Name": "Teams General",
-          "Image": "images/categories/first_days.png",
+          "Image": "images/categories/teams.png",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Microsoft",
@@ -184,7 +184,7 @@
         {
           "Id": "e99e2bea-ec8b-11ec-8ea0-0242ac120002",
           "Name": "Working with a Team in Microsoft Teams",
-          "Image": "images/categories/first_days.png",
+          "Image": "images/playlists/hybrid_eff_meetings.png",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Microsoft",
@@ -193,7 +193,7 @@
         {
           "Id": "e99e3252-ec8b-11ec-8ea0-0242ac120002",
           "Name": "Working with Channels in Microsoft Teams",
-          "Image": "images/categories/first_days.png",
+          "Image": "images/playlists/work_remotely.png",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Microsoft",
