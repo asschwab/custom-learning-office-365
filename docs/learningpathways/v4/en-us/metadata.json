@@ -165,7 +165,7 @@
   ],
   "Categories": [
     {
-      "Id": "bf749c5a-e73b-11ec-8fea-0242ac120002",
+      "Id": "e99e3644-ec8b-11ec-8ea0-0242ac120002",
       "Name": "Teams",
       "Image": "",
       "TechnologyId": "",
@@ -173,8 +173,17 @@
       "Source": "Microsoft",
       "SubCategories": [
         {
-          "Id": "bf749b24-e73b-11ec-8fea-0242ac120002",
+          "Id": "e99e2bea-ec8b-11ec-8ea0-0242ac120002",
           "Name": "Working with a Team in Microsoft Teams",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "e99e3252-ec8b-11ec-8ea0-0242ac120002",
+          "Name": "Working with Channels in Microsoft Teams",
           "Image": "images/categories/first_days.png",
           "TechnologyId": "",
           "SubjectId": "",
