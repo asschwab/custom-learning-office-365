@@ -1,0 +1,155 @@
+[
+  {
+    "Id": "e99e2622-ec8b-11ec-8ea0-0242ac120002",
+    "Title": "What's New in Microsoft Teams?",
+    "Image": "images/playlists/whats-new-whats-changed.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "e99e79ce-ec8b-11ec-8ea0-0242ac120002",
+    "Description": "What's New in Microsoft Teams?",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "e99e381a-ec8b-11ec-8ea0-0242ac120002",
+      "e99e3928-ec8b-11ec-8ea0-0242ac120002",
+      "e99e3bb2-ec8b-11ec-8ea0-0242ac120002",
+      "e99e3cd4-ec8b-11ec-8ea0-0242ac120002",
+      "e99e3de2-ec8b-11ec-8ea0-0242ac120002",
+      "e99e3edc-ec8b-11ec-8ea0-0242ac120002",
+      "e99e40d0-ec8b-11ec-8ea0-0242ac120002",
+      "e99e41de-ec8b-11ec-8ea0-0242ac120002"
+    ]
+  },
+  {
+    "Id": "e99e28a2-ec8b-11ec-8ea0-0242ac120002",
+    "Title": "Introduction to Microsoft Teams",
+    "Image": "images/playlists/intro_to_microsoft_teams.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "e99e79ce-ec8b-11ec-8ea0-0242ac120002",
+    "Description": "Introduction to Microsoft Teams",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "e99e4300-ec8b-11ec-8ea0-0242ac120002",
+      "e99e4576-ec8b-11ec-8ea0-0242ac120002",
+      "e99e468e-ec8b-11ec-8ea0-0242ac120002",
+      "e99e479c-ec8b-11ec-8ea0-0242ac120002"
+    ]
+  },
+  {
+    "Id": "e99e2d0c-ec8b-11ec-8ea0-0242ac120002",
+    "Title": "Organizing Your Teams",
+    "Image": "images/playlists/teams_quick_start.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "e99e2bea-ec8b-11ec-8ea0-0242ac120002",
+    "Description": "Organizing Your Teams",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "e99e48b4-ec8b-11ec-8ea0-0242ac120002",
+      "e99e49d6-ec8b-11ec-8ea0-0242ac120002",
+      "e99e4d50-ec8b-11ec-8ea0-0242ac120002",
+      "e99e4e5e-ec8b-11ec-8ea0-0242ac120002",
+      "e99e4f62-ec8b-11ec-8ea0-0242ac120002",
+      "e99e5084-ec8b-11ec-8ea0-0242ac120002"
+    ]
+  },
+  {
+    "Id": "e99e2e24-ec8b-11ec-8ea0-0242ac120002",
+    "Title": "Becoming a Member",
+    "Image": "images/playlists/modern_workplace_trainingx.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "e99e2bea-ec8b-11ec-8ea0-0242ac120002",
+    "Description": "Becoming a Member",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "e99e53ea-ec8b-11ec-8ea0-0242ac120002",
+      "e99e54f8-ec8b-11ec-8ea0-0242ac120002",
+      "e99e5642-ec8b-11ec-8ea0-0242ac120002",
+      "e99e57b4-ec8b-11ec-8ea0-0242ac120002",
+      "e99e5962-ec8b-11ec-8ea0-0242ac120002"
+    ]
+  },
+  {
+    "Id": "e99e3126-ec8b-11ec-8ea0-0242ac120002",
+    "Title": "Team Members",
+    "Image": "images/playlists/teams_walkie.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "e99e2bea-ec8b-11ec-8ea0-0242ac120002",
+    "Description": "Team Members",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "e99e5c28-ec8b-11ec-8ea0-0242ac120002",
+      "e99e5ee4-ec8b-11ec-8ea0-0242ac120002",
+      "e99e607e-ec8b-11ec-8ea0-0242ac120002",
+      "e99e61d2-ec8b-11ec-8ea0-0242ac120002"
+    ]
+  },
+  {
+    "Id": "e99e3360-ec8b-11ec-8ea0-0242ac120002",
+    "Title": "Creating and Organizing Channels",
+    "Image": "images/playlists/create_impactful_content_together.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "e99e3252-ec8b-11ec-8ea0-0242ac120002",
+    "Description": "Creating and Organizing Channels",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "e99e64de-ec8b-11ec-8ea0-0242ac120002",
+      "e99e660a-ec8b-11ec-8ea0-0242ac120002",
+      "e99e672c-ec8b-11ec-8ea0-0242ac120002",
+      "e99e6844-ec8b-11ec-8ea0-0242ac120002",
+      "e99e695c-ec8b-11ec-8ea0-0242ac120002",
+      "e99e6d80-ec8b-11ec-8ea0-0242ac120002",
+      "e99e6f2e-ec8b-11ec-8ea0-0242ac120002",
+      "e99e706e-ec8b-11ec-8ea0-0242ac120002",
+      "e99e7186-ec8b-11ec-8ea0-0242ac120002",
+      "e99e72b2-ec8b-11ec-8ea0-0242ac120002",
+      "e99e73d4-ec8b-11ec-8ea0-0242ac120002"
+    ]
+  },
+  {
+    "Id": "e99e3536-ec8b-11ec-8ea0-0242ac120002",
+    "Title": "Editing Channels",
+    "Image": "images/playlists/write_and_edit.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "e99e3252-ec8b-11ec-8ea0-0242ac120002",
+    "Description": "Editing Channels",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "e99e765e-ec8b-11ec-8ea0-0242ac120002",
+      "e99e778a-ec8b-11ec-8ea0-0242ac120002",
+      "e99e78ac-ec8b-11ec-8ea0-0242ac120002"
+    ]
+  }
+]
