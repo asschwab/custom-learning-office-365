@@ -1,7 +1,7 @@
 [
   {
     "Id": "e99e381a-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Teams: General Changes Part 1 (C6_00_00_01)",
+    "Title": "Teams: General Changes Part 1",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/HH7hW2/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -12,7 +12,7 @@
   },
   {
     "Id": "e99e3928-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Teams: General Changes Part 2 (C6_00_00_02)",
+    "Title": "Teams: General Changes Part 2",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/pJ7Wb0/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -23,7 +23,7 @@
   },
   {
     "Id": "e99e3bb2-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Teams: New Developments for Meetings Part 1 (C6_00_00_03)",
+    "Title": "Teams: New Developments for Meetings Part 1",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/V0Ayq/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -34,7 +34,7 @@
   },
   {
     "Id": "e99e3cd4-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Teams: New Developments for Meetings Part 2 (C6_00_00_04)",
+    "Title": "Teams: New Developments for Meetings Part 2",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/EEzyE2/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -45,7 +45,7 @@
   },
   {
     "Id": "e99e3de2-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Teams: New Features for Video Feed (C6_00_00_05)",
+    "Title": "Teams: New Features for Video Feed",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/yiGrc2/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -56,7 +56,7 @@
   },
   {
     "Id": "e99e3edc-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Teams: Meeting Preparation and Follow-up (C6_00_00_06)",
+    "Title": "Teams: Meeting Preparation and Follow-up",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/iPyrj0/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -67,7 +67,7 @@
   },
   {
     "Id": "e99e40d0-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Teams: New Features for Shared Contents (C6_00_00_07)",
+    "Title": "Teams: New Features for Shared Contents",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/4WpOj/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -78,7 +78,7 @@
   },
   {
     "Id": "e99e41de-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Teams: New Features for Messages (C6_00_00_08)",
+    "Title": "Teams: New Features for Messages",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/XfkJM2/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -89,7 +89,7 @@
   },
   {
     "Id": "e99e4300-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Introduction to Working with Microsoft Teams (C6_01_01_01)",
+    "Title": "Introduction to Working with Microsoft Teams",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/URLV43/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -100,7 +100,7 @@
   },
   {
     "Id": "e99e4576-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "The Structure of a Team (C6_01_01_03)",
+    "Title": "The Structure of a Team",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/qkwvs/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -111,7 +111,7 @@
   },
   {
     "Id": "e99e468e-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Introduction to the Role Concept in Microsoft Teams (C6_01_01_03)",
+    "Title": "Introduction to the Role Concept in Microsoft Teams",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/NWTOw2/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -122,7 +122,7 @@
   },
   {
     "Id": "e99e479c-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Introduction to the Team List (C6_01_01_06)",
+    "Title": "Introduction to the Team List",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/RhHzA0/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -133,7 +133,7 @@
   },
   {
     "Id": "e99e48b4-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Hide a Team from the Teams List (C6_02_01_07)",
+    "Title": "Hide a Team from the Teams List",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/YXLn7/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -144,7 +144,7 @@
   },
   {
     "Id": "e99e49d6-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Change the Order of Teams in the Team List (C6_02_01_14)",
+    "Title": "Change the Order of Teams in the Team List",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/RPiBT1/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -155,7 +155,7 @@
   },
   {
     "Id": "e99e4d50-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Finding Out About New Posts (C6_09_01_11)",
+    "Title": "Finding Out About New Posts",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/0JtzT3/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -166,7 +166,7 @@
   },
   {
     "Id": "e99e4e5e-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Show All Members of a Team in Microsoft Teams (C6_02_01_10)",
+    "Title": "Show All Members of a Team in Microsoft Teams",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/sIe9L1/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -177,7 +177,7 @@
   },
   {
     "Id": "e99e4f62-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Copy a Link to a Team (C6_02_01_13)",
+    "Title": "Copy a Link to a Team",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/g3OAS/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -188,7 +188,7 @@
   },
   {
     "Id": "e99e5084-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Change the Teams Notification Settings (C6_04_01_16)",
+    "Title": "Change the Teams Notification Settings",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/Rw0PA/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -199,7 +199,7 @@
   },
   {
     "Id": "e99e53ea-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Search for a Team in Microsoft Teams (C6_02_01_11)",
+    "Title": "Search for a Team in Microsoft Teams",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/yIwFW3/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -210,7 +210,7 @@
   },
   {
     "Id": "e99e54f8-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Receive a Link Invitation to a Team in Microsoft (C6_02_01_17)",
+    "Title": "Receive a Link Invitation to a Team in Microsoft",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/3Wk0Y/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -221,7 +221,7 @@
   },
   {
     "Id": "e99e5642-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Get a Link Invitation to a Team (Open in App) (C6_02_01_22)",
+    "Title": "Get a Link Invitation to a Team (Open in App)",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/DBq1G0/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -232,7 +232,7 @@
   },
   {
     "Id": "e99e57b4-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Join a Team in Microsoft Teams (C6_02_01_09)",
+    "Title": "Join a Team in Microsoft Teams",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/NzKr53/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -243,7 +243,7 @@
   },
   {
     "Id": "e99e5962-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Leave a Team in Microsoft Teams (C6_02_01_08)",
+    "Title": "Leave a Team in Microsoft Teams",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/7KLzk1/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -254,7 +254,7 @@
   },
   {
     "Id": "e99e5c28-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Introduction to the Role Concept in Microsoft Teams (C6_01_01_05)",
+    "Title": "Introduction to the Role Concept in Microsoft Teams",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/NWTOw2/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -265,7 +265,7 @@
   },
   {
     "Id": "e99e5ee4-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Show all Members of a Team in Microsoft Teams (C6_02_01_10)",
+    "Title": "Show all Members of a Team in Microsoft Teams",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/sIe9L1/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -276,7 +276,7 @@
   },
   {
     "Id": "e99e607e-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Search for Team Members (C6_05_01_07)",
+    "Title": "Search for Team Members",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/yJihX2/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -287,7 +287,7 @@
   },
   {
     "Id": "e99e61d2-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Draw the Attention of All Team Members to a Message (C6_02_01_12)",
+    "Title": "Draw the Attention of All Team Members to a Message",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/EGkf01/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -298,7 +298,7 @@
   },
   {
     "Id": "e99e64de-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Create a New Channel (C6_04_01_01)",
+    "Title": "Create a New Channel",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/5qwZZ1/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -309,7 +309,7 @@
   },
   {
     "Id": "e99e660a-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Create a Private Channel (C6_12_03_02)",
+    "Title": "Create a Private Channel",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/yxxKI/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -320,7 +320,7 @@
   },
   {
     "Id": "e99e672c-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Creating a New Tab in a Channel (C6_03_01_01)",
+    "Title": "Creating a New Tab in a Channel",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/VmNgJ0/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -331,7 +331,7 @@
   },
   {
     "Id": "e99e6844-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Embed a SharePoint Page, List or Library into a Channel (C6_03_01_02)",
+    "Title": "Embed a SharePoint Page, List or Library into a Channel",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/jGzGp2/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -342,7 +342,7 @@
   },
   {
     "Id": "e99e695c-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Show All Channels in a Team (C6_04_01_07)",
+    "Title": "Show All Channels in a Team",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/0vhbo0/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -353,7 +353,7 @@
   },
   {
     "Id": "e99e6d80-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Hide a Channel from a Team List (C6_04_01_05)",
+    "Title": "Hide a Channel from a Team List",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/S7SnV1/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -364,7 +364,7 @@
   },
   {
     "Id": "e99e6f2e-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Show a Channel in the Teams List (C6_04_01_06)",
+    "Title": "Show a Channel in the Teams List",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/uwVeK/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -375,7 +375,7 @@
   },
   {
     "Id": "e99e706e-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Search for a Channel (C6_04_01_08)",
+    "Title": "Search for a Channel",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/RBHnS3/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -386,7 +386,7 @@
   },
   {
     "Id": "e99e7186-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Bookmark a Message (C6_06_01_21)",
+    "Title": "Bookmark a Message",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/qcCMj/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -397,7 +397,7 @@
   },
   {
     "Id": "e99e72b2-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Pin a Conversation to a Channel (C6_06_01_08)",
+    "Title": "Pin a Conversation to a Channel",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/Oj7cn0/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -408,7 +408,7 @@
   },
   {
     "Id": "e99e73d4-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Set up Channel Notifications (C6_04_01_15)",
+    "Title": "Set up Channel Notifications",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/nWBvf1/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -419,7 +419,7 @@
   },
   {
     "Id": "e99e765e-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Rename a Channel (C6_04_01_02)",
+    "Title": "Rename a Channel",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/DnvDM/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -430,7 +430,7 @@
   },
   {
     "Id": "e99e778a-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Delete a Channel (C6_04_01_04)",
+    "Title": "Delete a Channel",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/gfbMc3/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
@@ -441,7 +441,7 @@
   },
   {
     "Id": "e99e78ac-ec8b-11ec-8ea0-0242ac120002",
-    "Title": "Restore a Channel (C6_04_01_14)",
+    "Title": "Restore a Channel",
     "Description": "",
     "Url": "https://azuretest.soluzione.de/go/to/e/kfpMp0/s/RULr93/l/en",
     "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
