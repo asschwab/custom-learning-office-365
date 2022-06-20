@@ -174,7 +174,16 @@
       "SubCategories": [
         {
           "Id": "e99e79ce-ec8b-11ec-8ea0-0242ac120002",
-          "Name": "Overview",
+          "Name": "What's New in Microsoft Teams?",
+          "Image": "images/categories/teams.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "e99e79ce-ec8b-11ec-8ea0-0242ac120003",
+          "Name": "Introduction to Microsoft Teams",
           "Image": "images/categories/teams.png",
           "TechnologyId": "",
           "SubjectId": "",
