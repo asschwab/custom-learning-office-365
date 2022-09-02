@@ -1,343 +1,407 @@
 {
+  "Levels": [
+    {
+      "Name": "Anfänger",
+      "Id": "0c3cbdb0-fda6-4d70-8e82-ba651ee7e616"
+    },
+    {
+      "Name": "Mittelstufe",
+      "Id": "6034b133-97f9-4eab-a6aa-f6e24b69f332"
+    },
+    {
+      "Name": "Erweitert",
+      "Id": "a5d5579e-2c0b-4f86-a537-682a0250b34e"
+    }
+  ],
+  "Sources": [
+    "SOC",
+    "FastTrack",
+    "M365",
+    "Microsoft",
+    "LinkedIn"
+  ],
   "Technologies": [
     {
       "Subjects": [],
-      "Name": "Tools",
-      "Id": "76826fda-d4d3-4584-b59a-550c3f6a9f04"
-    },
-    {
-      "Subjects": [],
-      "Name": "Microsoft Teams",
-      "Id": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694"
-    },
-    {
-      "Subjects": [],
-      "Name": "Organisation",
-      "Id": "78c5abeb-e085-4822-9abb-10107ab8b2a4"
-    },
-    {
-      "Subjects": [],
       "Name": "Microsoft 365",
-      "Id": "456ddddd-4293-481b-a0e0-e066799ed80d"
+      "Id": "89692eda-5918-4843-b8bb-1fbbbe28e339"
     },
     {
       "Subjects": [],
       "Name": "Sicherheit",
-      "Id": "daad80e8-8fdd-4e4b-a6f0-e48e1f9e0c5a"
+      "Id": "9f15a63d-bdc5-4703-b865-63aebcf92133"
+    },
+    {
+      "Subjects": [],
+      "Name": "Tools",
+      "Id": "56fa6e55-3e1f-4f4c-8bf4-00263f4177af"
+    },
+    {
+      "Subjects": [],
+      "Name": "Microsoft Teams",
+      "Id": "5efe1924-174c-4d39-b1dd-8ba8e74740f1"
+    },
+    {
+      "Subjects": [],
+      "Name": "Organisation",
+      "Id": "c52e03ed-f93e-4834-b353-0dad2aad6ee7"
     }
   ],
   "Categories": [
     {
-      "Source": "Soluzione",
+      "Source": "Microsoft",
+      "Image": "",
+      "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
       "SubCategories": [
         {
-          "Source": "Soluzione",
-          "SubCategories": [],
+          "Source": "Microsoft",
+          "Image": "images/categories/toolkit.png",
           "TechnologyId": "",
-          "SubjectId": "",
-          "Image": "",
-          "Name": "Rundumflug",
-          "Id": "3aab34c9-5855-4f4d-9511-c51ba031de5d"
-        },
-        {
-          "Source": "Soluzione",
           "SubCategories": [],
-          "TechnologyId": "",
           "SubjectId": "",
-          "Image": "",
-          "Name": "Durchstarten",
-          "Id": "8cbce640-5904-4261-9ca1-770d39b864e3"
-        },
-        {
-          "Source": "Soluzione",
-          "SubCategories": [],
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Image": "",
           "Name": "Welche Tools",
-          "Id": "15e32c76-2701-4729-b7ea-b9e62f722383"
+          "Id": "2b4d8fdd-fdc2-4236-ae86-ba789f8e1083"
         },
         {
-          "Source": "Soluzione",
-          "SubCategories": [],
+          "Source": "Microsoft",
+          "Image": "images/categories/recommended.png",
           "TechnologyId": "",
+          "SubCategories": [],
           "SubjectId": "",
-          "Image": "",
           "Name": "Empfehlungen und Tipps",
-          "Id": "2f5f6043-f0cb-489f-87b5-7270fadd3f9d"
+          "Id": "c8852fa7-33d9-4ce2-b4bf-9d2b3c964e18"
+        },
+        {
+          "Source": "Microsoft",
+          "Image": "/images/playlists/office_basics.png",
+          "TechnologyId": "",
+          "SubCategories": [],
+          "SubjectId": "",
+          "Name": "Rundumflug",
+          "Id": "9cb16314-c19f-4109-b92e-aa74ae10d986"
+        },
+        {
+          "Source": "Microsoft",
+          "Image": "/images/playlists/animation_video_and_audio.png",
+          "TechnologyId": "",
+          "SubCategories": [],
+          "SubjectId": "",
+          "Name": "Durchstarten",
+          "Id": "ea696cb6-33c2-4e2a-98bf-2c2728e707ef"
         }
       ],
-      "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
       "SubjectId": "",
-      "Image": "images/categories/",
       "Name": "Erste Schritte mit soluzione42",
-      "Id": "dc2fe805-8746-4946-8ff4-d04eb67183e2"
+      "Id": "d7c458b1-b43c-4da2-b59e-43551a9ec6b2"
     },
     {
-      "Source": "Soluzione",
+      "Source": "Microsoft",
+      "Image": "",
+      "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
       "SubCategories": [
         {
-          "Source": "Soluzione",
+          "Source": "Microsoft",
+          "Image": "/images/playlists/modern_workplace_trainingx.png",
+          "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
           "SubCategories": [],
-          "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
           "SubjectId": "",
-          "Image": "",
           "Name": "Mit Microsoft Teams im HomeOffice",
-          "Id": "750a4550-ccf0-4eba-85c7-2a328cb0f257"
+          "Id": "4b639b64-2d54-4bb3-b595-b53f6941d53a"
         },
         {
-          "Source": "Soluzione",
+          "Source": "Microsoft",
+          "Image": "/images/playlists/hybrid_stay_well.png",
+          "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
           "SubCategories": [],
-          "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
           "SubjectId": "",
-          "Image": "",
           "Name": "Spontane Besprechung",
-          "Id": "40f5dea2-d3d0-4ad5-afd8-5ec2b2a29f8f"
+          "Id": "059c8828-73b4-4086-abcd-8caf162fd744"
         },
         {
-          "Source": "Soluzione",
+          "Source": "Microsoft",
+          "Image": "/images/playlists/outlook_quick_start.png",
+          "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
           "SubCategories": [],
-          "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
           "SubjectId": "",
-          "Image": "",
           "Name": "Zeitmanagement",
-          "Id": "5ad26457-a0a7-4dad-9590-cb10527aa366"
+          "Id": "d6b55f46-efeb-4a03-8e65-8e9892bf7fea"
         }
       ],
-      "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
       "SubjectId": "",
-      "Image": "images/categories/",
       "Name": "Szenarien",
-      "Id": "a9771ba9-5420-457c-94ef-e2325e2b127b"
+      "Id": "92677fc4-d332-44ef-bfce-1f29455ec61b"
     },
     {
-      "Source": "Soluzione",
+      "Source": "Microsoft",
+      "Image": "",
+      "TechnologyId": "89692eda-5918-4843-b8bb-1fbbbe28e339",
       "SubCategories": [
         {
-          "Source": "Soluzione",
-          "SubCategories": [],
-          "TechnologyId": "456ddddd-4293-481b-a0e0-e066799ed80d",
-          "SubjectId": "",
+          "Source": "Microsoft",
           "Image": "images/categories/windows11.png",
+          "TechnologyId": "89692eda-5918-4843-b8bb-1fbbbe28e339",
+          "SubCategories": [],
+          "SubjectId": "",
           "Name": "Windows11",
-          "Id": "2dd2ddb5-2691-41d7-88ff-75484fb5a761"
+          "Id": "962515d0-65e2-4217-8c1e-293b529b82fc"
         },
         {
-          "Source": "Soluzione",
-          "SubCategories": [],
-          "TechnologyId": "456ddddd-4293-481b-a0e0-e066799ed80d",
-          "SubjectId": "",
+          "Source": "Microsoft",
           "Image": "images/categories/outlook2019.png",
+          "TechnologyId": "89692eda-5918-4843-b8bb-1fbbbe28e339",
+          "SubCategories": [],
+          "SubjectId": "",
           "Name": "Outlook Online",
-          "Id": "f3890112-0b1b-4928-acfb-0a0625190581"
+          "Id": "b43406da-54c1-47cf-86f6-297c71b6f3e0"
         },
         {
-          "Source": "Soluzione",
-          "SubCategories": [],
-          "TechnologyId": "456ddddd-4293-481b-a0e0-e066799ed80d",
-          "SubjectId": "",
+          "Source": "Microsoft",
           "Image": "images/categories/powerpoint2019.png",
+          "TechnologyId": "89692eda-5918-4843-b8bb-1fbbbe28e339",
+          "SubCategories": [],
+          "SubjectId": "",
           "Name": "PowerPoint 365",
-          "Id": "1fd566bb-d53b-419e-bb87-5b7837acad3f"
+          "Id": "a3d8c82e-0690-4fa1-8ff7-1c069df723f2"
         },
         {
-          "Source": "Soluzione",
-          "SubCategories": [],
-          "TechnologyId": "456ddddd-4293-481b-a0e0-e066799ed80d",
-          "SubjectId": "",
+          "Source": "Microsoft",
           "Image": "images/categories/forms365.png",
+          "TechnologyId": "89692eda-5918-4843-b8bb-1fbbbe28e339",
+          "SubCategories": [],
+          "SubjectId": "",
           "Name": "Forms",
-          "Id": "e8d46511-2c4b-47f2-a85e-79737c0766f0"
+          "Id": "f080a342-4e00-428f-86a5-6e805caed9b1"
         },
         {
-          "Source": "Soluzione",
-          "SubCategories": [],
-          "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-          "SubjectId": "",
+          "Source": "Microsoft",
           "Image": "images/categories/teams_365.png",
+          "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+          "SubCategories": [],
+          "SubjectId": "",
           "Name": "Microsoft Teams",
-          "Id": "6eddea0b-cea7-491c-a468-f860e4862825"
+          "Id": "58efb81f-2ab1-4f02-a159-05a15c2d3750"
         },
         {
-          "Source": "Soluzione",
-          "SubCategories": [],
-          "TechnologyId": "456ddddd-4293-481b-a0e0-e066799ed80d",
-          "SubjectId": "",
+          "Source": "Microsoft",
           "Image": "images/categories/todo.png",
+          "TechnologyId": "89692eda-5918-4843-b8bb-1fbbbe28e339",
+          "SubCategories": [],
+          "SubjectId": "",
           "Name": "To Do",
-          "Id": "295bb8db-3417-4cf3-8a51-864a6c81c01d"
+          "Id": "6b178f74-60eb-4b3f-9d2c-40abda7d2e57"
         },
         {
-          "Source": "Soluzione",
-          "SubCategories": [],
-          "TechnologyId": "456ddddd-4293-481b-a0e0-e066799ed80d",
-          "SubjectId": "",
+          "Source": "Microsoft",
           "Image": "images/categories/powerpoint2019.png",
+          "TechnologyId": "89692eda-5918-4843-b8bb-1fbbbe28e339",
+          "SubCategories": [],
+          "SubjectId": "",
           "Name": "PowerPoint Online",
-          "Id": "c5b74094-af3e-4546-a749-5f6f235f6595"
+          "Id": "cb5ad2b8-f465-4a13-bb4d-7f3994e574a0"
         },
         {
-          "Source": "Soluzione",
-          "SubCategories": [],
-          "TechnologyId": "456ddddd-4293-481b-a0e0-e066799ed80d",
-          "SubjectId": "",
+          "Source": "Microsoft",
           "Image": "images/categories/outlook2019.png",
+          "TechnologyId": "89692eda-5918-4843-b8bb-1fbbbe28e339",
+          "SubCategories": [],
+          "SubjectId": "",
           "Name": "Outlook 365",
-          "Id": "f8f367c6-8cf0-45fa-89ca-42e3fc377d11"
+          "Id": "bc68f669-4649-43a3-b468-be7171d67b55"
         },
         {
-          "Source": "Soluzione",
-          "SubCategories": [],
-          "TechnologyId": "456ddddd-4293-481b-a0e0-e066799ed80d",
-          "SubjectId": "",
+          "Source": "Microsoft",
           "Image": "images/categories/excel2019.png",
+          "TechnologyId": "89692eda-5918-4843-b8bb-1fbbbe28e339",
+          "SubCategories": [],
+          "SubjectId": "",
           "Name": "Excel 365",
-          "Id": "9d6cef40-bb0d-4597-adee-7a22012a0d20"
+          "Id": "6848f35a-35ab-4dbb-b4f4-84adb7abba9b"
         },
         {
-          "Source": "Soluzione",
-          "SubCategories": [],
-          "TechnologyId": "456ddddd-4293-481b-a0e0-e066799ed80d",
-          "SubjectId": "",
+          "Source": "Microsoft",
           "Image": "images/categories/toolkompass.png",
+          "TechnologyId": "89692eda-5918-4843-b8bb-1fbbbe28e339",
+          "SubCategories": [],
+          "SubjectId": "",
           "Name": "M365 Tool-Kompass",
-          "Id": "351f5a32-83c4-4927-bd78-7fb4b0d1c0c0"
+          "Id": "b5a8f06b-a670-4000-8708-161439a4f666"
         },
         {
-          "Source": "Soluzione",
-          "SubCategories": [],
-          "TechnologyId": "456ddddd-4293-481b-a0e0-e066799ed80d",
-          "SubjectId": "",
+          "Source": "Microsoft",
           "Image": "images/categories/excel2019.png",
+          "TechnologyId": "89692eda-5918-4843-b8bb-1fbbbe28e339",
+          "SubCategories": [],
+          "SubjectId": "",
           "Name": "Excel Online",
-          "Id": "9b5d752c-65a4-4665-8800-1c47d6a9232f"
+          "Id": "f15fe7d7-a188-449e-aa36-aceadb5d6a3e"
         },
         {
-          "Source": "Soluzione",
-          "SubCategories": [],
-          "TechnologyId": "456ddddd-4293-481b-a0e0-e066799ed80d",
-          "SubjectId": "",
+          "Source": "Microsoft",
           "Image": "images/categories/word2019.png",
+          "TechnologyId": "89692eda-5918-4843-b8bb-1fbbbe28e339",
+          "SubCategories": [],
+          "SubjectId": "",
           "Name": "Word 365",
-          "Id": "5a0926e7-a370-41a5-8066-b67d57283885"
+          "Id": "a5039fcb-647a-4e5c-a662-7d9d5ef8c632"
         },
         {
-          "Source": "Soluzione",
-          "SubCategories": [],
-          "TechnologyId": "daad80e8-8fdd-4e4b-a6f0-e48e1f9e0c5a",
-          "SubjectId": "",
+          "Source": "Microsoft",
           "Image": "images/categories/two-factor-auth.png",
+          "TechnologyId": "9f15a63d-bdc5-4703-b865-63aebcf92133",
+          "SubCategories": [],
+          "SubjectId": "",
           "Name": "2-Faktor-Authentifizierung",
-          "Id": "e419d4be-46aa-485c-9e6e-375196e22d44"
+          "Id": "2d527d09-f08f-4c5f-8891-2dbdf7e77419"
         },
         {
-          "Source": "Soluzione",
-          "SubCategories": [],
-          "TechnologyId": "456ddddd-4293-481b-a0e0-e066799ed80d",
-          "SubjectId": "",
+          "Source": "Microsoft",
           "Image": "images/categories/barrierefrei.png",
+          "TechnologyId": "89692eda-5918-4843-b8bb-1fbbbe28e339",
+          "SubCategories": [],
+          "SubjectId": "",
           "Name": "Windows und Office 365 barrierefei",
-          "Id": "3aaed465-30e5-49d4-aaac-1312afbf21a1"
+          "Id": "37dc6fd3-9d9c-4a94-955e-4bb93a8e4306"
         },
         {
-          "Source": "Soluzione",
-          "SubCategories": [],
-          "TechnologyId": "456ddddd-4293-481b-a0e0-e066799ed80d",
-          "SubjectId": "",
+          "Source": "Microsoft",
           "Image": "images/categories/skype2teams.png",
+          "TechnologyId": "89692eda-5918-4843-b8bb-1fbbbe28e339",
+          "SubCategories": [],
+          "SubjectId": "",
           "Name": "Umstieg von Skype zu Teams",
-          "Id": "bfd4b8ff-13aa-4f3f-9365-b4936499cf3c"
+          "Id": "5c88995a-6c81-4b83-be17-c4b386f9ee20"
         },
         {
-          "Source": "Soluzione",
-          "SubCategories": [],
-          "TechnologyId": "456ddddd-4293-481b-a0e0-e066799ed80d",
-          "SubjectId": "",
-          "Image": "images/categories/findtime.png",
-          "Name": "Find Time",
-          "Id": "bb6a3a09-7caa-4842-a909-4c0c7e940071"
-        },
-        {
-          "Source": "Soluzione",
-          "SubCategories": [],
-          "TechnologyId": "456ddddd-4293-481b-a0e0-e066799ed80d",
-          "SubjectId": "",
+          "Source": "Microsoft",
           "Image": "images/categories/planner365.png",
+          "TechnologyId": "89692eda-5918-4843-b8bb-1fbbbe28e339",
+          "SubCategories": [],
+          "SubjectId": "",
           "Name": "Planner",
-          "Id": "2060d305-5c4a-4b19-96e9-79fe62d1fed7"
+          "Id": "59d49a70-c39e-4097-a8d7-8b5a46dbb5b6"
         },
         {
-          "Source": "Soluzione",
+          "Source": "Microsoft",
+          "Image": "images/categories/findtime.png",
+          "TechnologyId": "89692eda-5918-4843-b8bb-1fbbbe28e339",
           "SubCategories": [],
-          "TechnologyId": "456ddddd-4293-481b-a0e0-e066799ed80d",
           "SubjectId": "",
+          "Name": "Find Time",
+          "Id": "6ca90dab-2a4b-4386-b49a-7619535b3e2f"
+        },
+        {
+          "Source": "Microsoft",
           "Image": "images/categories/sharepoint365.png",
+          "TechnologyId": "89692eda-5918-4843-b8bb-1fbbbe28e339",
+          "SubCategories": [],
+          "SubjectId": "",
           "Name": "SharePoint",
-          "Id": "e7cbe24b-1116-431c-b255-6b3272a5b970"
+          "Id": "ddb0d11f-6bd0-463e-aecb-2b8d5606c87b"
         },
         {
-          "Source": "Soluzione",
-          "SubCategories": [],
-          "TechnologyId": "456ddddd-4293-481b-a0e0-e066799ed80d",
-          "SubjectId": "",
+          "Source": "Microsoft",
           "Image": "images/categories/onedrive.png",
+          "TechnologyId": "89692eda-5918-4843-b8bb-1fbbbe28e339",
+          "SubCategories": [],
+          "SubjectId": "",
           "Name": "OneDrive mit Windows 11",
-          "Id": "6689618c-e110-4273-8044-f896daa7d4f1"
+          "Id": "8490017a-01dc-4161-a670-44c80a4dbd46"
         },
         {
-          "Source": "Soluzione",
-          "SubCategories": [],
-          "TechnologyId": "456ddddd-4293-481b-a0e0-e066799ed80d",
-          "SubjectId": "",
+          "Source": "Microsoft",
           "Image": "images/categories/yammer_365.png",
+          "TechnologyId": "89692eda-5918-4843-b8bb-1fbbbe28e339",
+          "SubCategories": [],
+          "SubjectId": "",
           "Name": "Yammer",
-          "Id": "78024e29-9bdb-4ad0-bbf5-6d132a00ed56"
+          "Id": "999c26cf-51a2-4736-8878-8a6eb72f8721"
         },
         {
-          "Source": "Soluzione",
-          "SubCategories": [],
-          "TechnologyId": "456ddddd-4293-481b-a0e0-e066799ed80d",
-          "SubjectId": "",
+          "Source": "Microsoft",
           "Image": "images/categories/whiteboard.png",
+          "TechnologyId": "89692eda-5918-4843-b8bb-1fbbbe28e339",
+          "SubCategories": [],
+          "SubjectId": "",
           "Name": "Whiteboard",
-          "Id": "6088e88a-7814-4dcb-aea2-91b6da6ce29d"
+          "Id": "cbc65d15-8690-4465-bace-445e13d51745"
         },
         {
-          "Source": "Soluzione",
-          "SubCategories": [],
-          "TechnologyId": "456ddddd-4293-481b-a0e0-e066799ed80d",
-          "SubjectId": "",
+          "Source": "Microsoft",
           "Image": "images/categories/word2019.png",
+          "TechnologyId": "89692eda-5918-4843-b8bb-1fbbbe28e339",
+          "SubCategories": [],
+          "SubjectId": "",
           "Name": "Word Online",
-          "Id": "2bbc0bda-27c0-414c-9772-538fc617fa6a"
+          "Id": "d665a809-7f05-4d39-9bdb-b70610500697"
         }
       ],
-      "TechnologyId": "456ddddd-4293-481b-a0e0-e066799ed80d",
       "SubjectId": "",
-      "Image": "images/categories/",
       "Name": "Bibliothek",
-      "Id": "1abfa297-c47f-44ee-8416-1d90e425d4a7"
+      "Id": "1d4084aa-7e80-4fe1-ae25-f59a4b3b654f"
     }
   ],
   "Audiences": [
     {
-      "Name": "All",
-      "Id": "e6a989f0-b781-4367-a777-03b1a530e061"
+      "Name": "Endbenutzer",
+      "Id": "20ed58f8-460a-418d-b95e-7cb673888855"
+    },
+    {
+      "Name": "Champions/Trainer",
+      "Id": "772f1cc2-2b6b-40b5-90a1-1e391c1a6148"
+    },
+    {
+      "Name": "HelpDesk",
+      "Id": "7f898633-9a88-4769-a288-ae3a9cafe478"
+    },
+    {
+      "Name": "Alle",
+      "Id": "4c2c95f7-3728-4bbb-95f5-b07243c7bcf5"
+    },
+    {
+      "Name": "Änderungs-Manager",
+      "Id": "bbd5a0b7-f920-49f2-8aa5-5cc14c558ca7"
+    },
+    {
+      "Name": "Administrator",
+      "Id": "f52e872b-42dd-4056-8921-a7bfa09e2207"
+    },
+    {
+      "Name": "Gruppenbesitzer",
+      "Id": "5a1b1b67-7ff1-4246-a472-0f103c37e967"
+    },
+    {
+      "Name": "VIP",
+      "Id": "817e45a9-d238-4fe5-96aa-60fd5938a949"
+    },
+    {
+      "Name": "Assistent für Geschäftsleitung",
+      "Id": "6d0c03b4-17e6-4402-80a9-f3c232db5d22"
+    },
+    {
+      "Name": "Inhalts-Editor",
+      "Id": "ba4c0712-e47d-40bb-86af-96dd9e141732"
     }
   ],
   "StatusTag": [
     {
-      "Name": "New",
-      "Id": "f6335900-61dc-4629-b863-7de22d922401"
-    }
-  ],
-  "Sources": [
-    "Soluzione"
-  ],
-  "Levels": [
+      "Name": "Neu",
+      "Id": "7150a102-b911-4d19-b052-6aea95b4e553"
+    },
     {
-      "Name": "Beginner",
-      "Id": "461eef56-2189-4874-9bd4-e4950d11d8a0"
+      "Name": "Beta",
+      "Id": "7d098635-2a6d-4980-a612-16fd833c664f"
+    },
+    {
+      "Name": "Aktualisiert",
+      "Id": "01b57126-14d2-4d1b-9aea-71a146e67c82"
+    },
+    {
+      "Name": "In Rente",
+      "Id": "04a3a785-31ce-4660-a90c-25384dff59ce"
+    },
+    {
+      "Name": "Eingestellt",
+      "Id": "56a0fb66-2798-45b7-86c3-0b99c33431dd"
     }
   ]
 }

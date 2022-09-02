@@ -1,2917 +1,2917 @@
 [
   {
-    "Id": "fd8b360e-0c4f-4cd0-b4b3-c6c65d9cde91",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
-    "Description": "",
-    "StatusTagId": "",
-    "StatusNote": "",
+    "Id": "e0b8e382-b960-4227-b45e-69f53b397cc1",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/HH7hW2/l/de",
-    "Title": "Was ist neu in Teams?"
-  },
-  {
-    "Id": "afd9d9df-8785-431d-8592-35c51e0c5504",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Was ist neu in Teams?",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "11cda57f-648d-4a6f-b9e5-aa4976535f73",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/pJ7Wb0/l/de",
-    "Title": "Was ist neu für Besprechungen?"
-  },
-  {
-    "Id": "283ea954-6a20-4774-91fd-123ea65292aa",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Was ist neu für Besprechungen?",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "86d27dd5-4a22-4b9d-9128-8a468b4a1dd4",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/V0Ayq/l/de",
-    "Title": "Was ist neu für Chats und Kanal-Beiträge?"
-  },
-  {
-    "Id": "4efb8851-c6cb-4041-beba-1edbe6a8e5ee",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Was ist neu für Chats und Kanal-Beiträge?",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "82a689ba-7ba8-41d6-91c0-0cf764c05a83",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/EEzyE2/l/de",
-    "Title": "Was ist neu für Teams und Kanäle?"
-  },
-  {
-    "Id": "1e3bc8be-61c9-4874-b82c-bc3a5411ceda",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Was ist neu für Teams und Kanäle?",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "e80c60e5-4e16-46eb-b9e1-12e929e8d046",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/yiGrc2/l/de",
-    "Title": "Was ist neu für Anrufe und Webcams?"
-  },
-  {
-    "Id": "1049c48e-af07-43f8-9aa6-41c1ce0d149f",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Was ist neu für Anrufe und Webcams?",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "08858ef9-5ebd-4202-9081-04e61215de8a",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/iPyrj0/l/de",
-    "Title": "Was ist neu für das Teilen von Inhalten in Besprechungen?"
-  },
-  {
-    "Id": "52a47e18-e3bc-4223-ad0a-14514eab449a",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Was ist neu für das Teilen von Inhalten in Besprechungen?",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "daae37d5-233a-4655-9b61-34646ce5783f",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/URLV43/l/de",
-    "Title": "Einführung in das Arbeiten mit Microsoft Teams"
-  },
-  {
-    "Id": "81643a46-3954-4269-a245-e0e2277b25bd",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Einführung in das Arbeiten mit Microsoft Teams",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "67054b94-ec39-4112-8fc5-0da4b15487d4",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/qkwvs/l/de",
-    "Title": "Der Aufbau eines Teams"
-  },
-  {
-    "Id": "60f2dea4-5a21-4f68-bae0-9fa102b7e52f",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Der Aufbau eines Teams",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "6584dac9-c3a8-4516-af61-33131146f533",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/NWTOw2/l/de",
-    "Title": "Einführung in das Rollenkonzept"
-  },
-  {
-    "Id": "555a5aa9-e8af-417e-93fc-7ebb3ad5d1e3",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Einführung in das Rollenkonzept",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "db3d71b3-46d1-4a94-a99a-e617910a94c2",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/RhHzA0/l/de",
-    "Title": "Einführung in die Teamliste"
-  },
-  {
-    "Id": "1875ac47-b8ba-4bb6-8457-ec240373d243",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Einführung in die Teamliste",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "84ec2219-7fc6-40c1-bff4-6ec39a5c2663",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/T7SvL3/l/de",
-    "Title": "Ein neues öffentliches Team erstellen"
-  },
-  {
-    "Id": "6aac46ae-848d-4e89-9919-638b19d802ca",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Ein neues öffentliches Team erstellen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "4152c07e-936b-4aa1-b640-c1bf13abff55",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/jbDRO3/l/de",
-    "Title": "Ein privates Team erstellen"
-  },
-  {
-    "Id": "9cc76f4b-edf1-4c7d-8454-e87680eefa0a",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Ein privates Team erstellen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "3611235e-74e3-4b66-9f5d-db6e5da3d8a8",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/1yXR13/l/de",
-    "Title": "Ein Team mit einer Vorlage erstellen"
-  },
-  {
-    "Id": "5b5f663e-d3cb-49b1-a007-c97720da54e1",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Ein Team mit einer Vorlage erstellen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "4a7c4441-d2de-48be-8eb8-dd123744b5e7",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/YXLn7/l/de",
-    "Title": "Ein Team aus Teamliste ausblenden"
-  },
-  {
-    "Id": "81698760-66fc-49e3-a885-99a697e4f923",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Ein Team aus Teamliste ausblenden",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "c68bd44c-f7b8-4297-9050-aa552ad22adf",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/RPiBT1/l/de",
-    "Title": "Reihenfolge der Teams in der Teamliste ändern"
-  },
-  {
-    "Id": "48fab404-5420-4018-bff1-027ae999c130",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Reihenfolge der Teams in der Teamliste ändern",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "7b2d10dc-e2bb-4264-9dae-cd4ac4648dda",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/yIwFW3/l/de",
-    "Title": "Nach einem Team suchen"
-  },
-  {
-    "Id": "45744ec9-14a1-4e7a-b8dc-a7d899094e1b",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Nach einem Team suchen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "8fa5a5c2-8bb8-483a-96d4-ffaf0501b50a",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/0JtzT3/l/de",
-    "Title": "Neue Posts nicht verpassen"
-  },
-  {
-    "Id": "4c650fdf-2007-4073-81bd-87e950717d03",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Neue Posts nicht verpassen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "4541c98a-23bf-48ea-84df-07a8c8b7d21a",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/sIe9L1/l/de",
-    "Title": "Alle Mitglieder eines Teams anzeigen"
-  },
-  {
-    "Id": "f7c9d7c3-1301-43ca-99f2-5ff156d217cb",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Alle Mitglieder eines Teams anzeigen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "57715d1a-a2f6-441c-9576-69c9c0c4571f",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/g3OAS/l/de",
-    "Title": "Link zu einem Team kopieren"
-  },
-  {
-    "Id": "ee8be48e-8c9a-4607-aa1d-66535a5ac96c",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Link zu einem Team kopieren",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "25770a25-057b-478c-9a09-beaa5aff63c1",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/3Wk0Y/l/de",
-    "Title": "Linkeinladung zu einem Team bekommen (öffnen im Browser)"
-  },
-  {
-    "Id": "0b1d0e5b-d282-4ebe-b542-a099cf81f7cb",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Linkeinladung zu einem Team bekommen (öffnen im Browser)",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "b22f4faf-24b8-4945-a8c8-598624a7b0fc",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/DBq1G0/l/de",
-    "Title": "Linkeinladung zu einem Team bekommen (öffnen in App)"
-  },
-  {
-    "Id": "0192b84f-126e-4df9-ab6a-9712482f740c",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Linkeinladung zu einem Team bekommen (öffnen in App)",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "5387c198-cd39-47b7-8ab1-c973512feea2",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/DOGqA1/l/de",
-    "Title": "Ein Team umbenennen"
-  },
-  {
-    "Id": "750cf74a-99be-4ea3-adb2-5e68e0825e8b",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Ein Team umbenennen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "78fe20b7-87f9-4984-b20b-5f88079eeaad",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/Dv8l/l/de",
-    "Title": "Dem Team ein Bild hinzufügen"
-  },
-  {
-    "Id": "0613c6ec-aefb-4af3-b2eb-150a16d745f2",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Dem Team ein Bild hinzufügen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "2c0fdc67-4ce3-4809-90b2-833ba8175534",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/mDg131/l/de",
-    "Title": "Ein Team löschen"
-  },
-  {
-    "Id": "1fec4dc3-bc79-4ed5-a980-827cba03aeb4",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Ein Team löschen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "512763ae-e7bd-43e4-9ba6-921b779f8df9",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/jonBv0/l/de",
-    "Title": "Die Zugriffsrechte für ein Team verändern (privat/öffentlich)"
-  },
-  {
-    "Id": "275131c3-5801-4e58-b56b-a5be2eab7fef",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Die Zugriffsrechte für ein Team verändern (privat/öffentlich)",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "2b19a9b4-d63b-4ce8-b1dc-1a1c554d40e0",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/2PPfa1/l/de",
-    "Title": "Erwähnungen für ein Team zulassen"
-  },
-  {
-    "Id": "88946c4e-3b1c-46f5-87bf-ca42e40bf634",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Erwähnungen für ein Team zulassen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "468e6504-0e3f-4c5f-b447-018a21b4d87c",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/O3P8Y3/l/de",
-    "Title": "Giphy- und Memeeinstellungen für ein Team anpassen"
-  },
-  {
-    "Id": "16af188f-01c1-4e8d-9018-f6a6540b3a4d",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Giphy- und Memeeinstellungen für ein Team anpassen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "10850b90-5830-4434-8e6e-a8bc9745e96f",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/NWTOw2/l/de",
-    "Title": "Einführung in das Rollenkonzept"
-  },
-  {
-    "Id": "cefc5b14-59a3-46b1-98ca-eeada280d351",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Einführung in das Rollenkonzept",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "adecaf04-3cc1-4ee9-bbf2-755338d78e80",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/sIe9L1/l/de",
-    "Title": "Alle Mitglieder eines Teams anzeigen"
-  },
-  {
-    "Id": "16810477-3d8c-47ca-9b17-589f37951529",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Alle Mitglieder eines Teams anzeigen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "9063b0ef-1731-4d7c-8df0-1bb1a17c473e",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/cM0Qn/l/de",
-    "Title": "Mitgliederberechtigungen für ein Team bearbeiten"
-  },
-  {
-    "Id": "5934ddd2-2aea-43e2-92e3-40fea00512fb",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Mitgliederberechtigungen für ein Team bearbeiten",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "1b330ecb-fe12-4d83-9dac-ac0c499c740b",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/GFUHt1/l/de",
-    "Title": "Weitere Mitglieder zu einem Team hinzufügen"
-  },
-  {
-    "Id": "bd09a22b-16e2-4274-9218-fa8739e73ab2",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Weitere Mitglieder zu einem Team hinzufügen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "534a7077-c457-4be1-b165-fc0781462367",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/tMY9F2/l/de",
-    "Title": "Gäste zu einem Team hinzufügen"
-  },
-  {
-    "Id": "a81c3bca-53cd-42c2-9226-090f4ec12472",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Gäste zu einem Team hinzufügen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "3b59e017-2af6-440d-8ae5-472375dc50fa",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/E9NRG3/l/de",
-    "Title": "Mitglied aus einem Team entfernen"
-  },
-  {
-    "Id": "e851ac46-90ba-4b3d-9a8f-87ee74750c9f",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Mitglied aus einem Team entfernen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "f11c0e7e-38d7-4f69-bd7b-95f42e1304b8",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/3Wk0Y/l/de",
-    "Title": "Linkeinladung zu einem Team bekommen (öffnen im Browser)"
-  },
-  {
-    "Id": "45bbcd73-1dda-435f-a6e3-cc2b4ff8e06a",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Linkeinladung zu einem Team bekommen (öffnen im Browser)",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "35185844-fff1-49d6-ac4f-54ee5241699a",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/NzKr53/l/de",
-    "Title": "Einem Team beitreten"
-  },
-  {
-    "Id": "cceefe9e-1b3a-4bcb-b01b-4ada5f3e5969",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Einem Team beitreten",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "ab47c5b2-b360-47df-9930-a81cf6df6751",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/7KLzk1/l/de",
-    "Title": "Ein Team verlassen"
-  },
-  {
-    "Id": "fced1e7c-9d79-4b27-ae9d-958d94ccbe6c",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Ein Team verlassen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "a3b11fb8-9884-48e2-99e2-c30d1d2ea471",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/yJihX2/l/de",
-    "Title": "Nach Mitgliedern in einem Team suchen"
-  },
-  {
-    "Id": "7a302f12-ae8f-4c34-b3cf-d2d2c6d659fe",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Nach Mitgliedern in einem Team suchen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "67b171a9-e563-4e6d-9e97-371d39729791",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/EGkf01/l/de",
-    "Title": "Alle Mitglieder eines Teams auf eine Nachricht aufmerksam machen"
-  },
-  {
-    "Id": "c2d3141d-22a1-4f64-8f22-7df6ff68ea7d",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Alle Mitglieder eines Teams auf eine Nachricht aufmerksam machen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "c0d56a57-e2b0-4d0e-a549-f7596445dff9",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/5qwZZ1/l/de",
-    "Title": "Neuen Kanal erstellen"
-  },
-  {
-    "Id": "9cf744ca-62f3-4a2b-b9a1-afd97b57d525",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Neuen Kanal erstellen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "4a8b92dc-8e0a-49ac-bedd-2f0e2c88da1e",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/yxxKI/l/de",
-    "Title": "Einen privaten Kanal erstellen"
-  },
-  {
-    "Id": "32d32fd8-9722-4d74-bf99-1687e2d8ef71",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Einen privaten Kanal erstellen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "fa50c059-b596-4107-befa-df01dd0bd0d1",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/VmNgJ0/l/de",
-    "Title": "Neue Registerkarte in einem Kanal erstellen"
-  },
-  {
-    "Id": "73d905a2-4cb8-4aea-a14d-ff34ad57241d",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Neue Registerkarte in einem Kanal erstellen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "aebefd72-f566-49fd-a858-9298346578f1",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/jGzGp2/l/de",
-    "Title": "Eine SharePoint-Seite, -Liste oder -Bibliothek in einen Kanal als Registerkarte einbinden"
-  },
-  {
-    "Id": "501ec8ad-519e-47b6-bb7f-bc2af4569990",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Eine SharePoint-Seite, -Liste oder -Bibliothek in einen Kanal als Registerkarte einbinden",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "6792f294-5a43-4224-a5cd-73dfb587c258",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/0vhbo0/l/de",
-    "Title": "Alle Kanäle in einem Team anzeigen"
-  },
-  {
-    "Id": "cdaa22db-8d80-4a44-aad9-b7bc47c2c3d9",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Alle Kanäle in einem Team anzeigen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "f2fc4d6d-80a8-469f-a9b0-d8c4de953ae2",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/S7SnV1/l/de",
-    "Title": "Kanal aus Teamliste ausblenden"
-  },
-  {
-    "Id": "b93c9b1a-b3b3-4e8e-8582-d16a6d960d63",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Kanal aus Teamliste ausblenden",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "738dc91b-0d68-4c74-9448-cbfbd9563994",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/uwVeK/l/de",
-    "Title": "Einen Kanal in Teamliste einblenden"
-  },
-  {
-    "Id": "3db24eb5-6a18-4900-aaf7-9ab7f030e992",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Einen Kanal in Teamliste einblenden",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "5a975283-3b2d-4cf4-bc29-fd77dfc5e365",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/RBHnS3/l/de",
-    "Title": "Nach einem Kanal suchen"
-  },
-  {
-    "Id": "9d7d46f3-6ffa-408e-a8ee-23291252c62a",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Nach einem Kanal suchen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "d4d7202e-3d5d-47ff-b633-9771c4f8f00c",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/qcCMj/l/de",
-    "Title": "Eine Nachricht mit einem Lesezeichen versehen"
-  },
-  {
-    "Id": "e234d07d-6529-4a14-8464-b85350b1566f",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Eine Nachricht mit einem Lesezeichen versehen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "2df19676-53a9-4121-a501-d4313a611604",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/Oj7cn0/l/de",
-    "Title": "Unterhaltungen in einem Kanal anheften"
-  },
-  {
-    "Id": "842b63ba-12f4-4ba3-b24e-d8595dcf3081",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Unterhaltungen in einem Kanal anheften",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "3e7961cb-cd25-40c0-aa92-5c21fb242d89",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/DnvDM/l/de",
-    "Title": "Kanal umbenennen"
-  },
-  {
-    "Id": "f5f50f04-0e0f-48ca-b534-a216902f071a",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Kanal umbenennen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "c83c3f9b-a485-4845-8940-1bb2337c4ab7",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/gfbMc3/l/de",
-    "Title": "Einen Kanal entfernen"
-  },
-  {
-    "Id": "0625d22b-c96a-4435-9c0e-ab70cbddf514",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Einen Kanal entfernen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "d5567a9d-af67-4cf3-9bd1-9ae2614c5b07",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/RULr93/l/de",
-    "Title": "Kanal wiederherstellen"
-  },
-  {
-    "Id": "88773591-5b65-409f-a6f2-b1181f15b5f7",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Kanal wiederherstellen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "d36f49ca-b0ce-4844-b99f-69feae0699c1",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/nWBvf1/l/de",
-    "Title": "Kanalbenachrichtigungen einstellen"
-  },
-  {
-    "Id": "fa28caea-f6d7-454f-a3f2-ba7267882553",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Kanalbenachrichtigungen einstellen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "7a27eb69-65dc-41f7-9d43-408bd995378f",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/0JtzT3/l/de",
-    "Title": "Neue Posts nicht verpassen"
-  },
-  {
-    "Id": "506bbf2f-3748-4e29-9b66-5b4a011a0241",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Neue Posts nicht verpassen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "cc443708-c5ba-48d4-9e3d-41a07b260c7f",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/q8NBE/l/de",
-    "Title": "E-Mail an einen Kanal senden"
-  },
-  {
-    "Id": "626b12ce-9bba-47bd-9454-da7ffd3c1f2c",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "E-Mail an einen Kanal senden",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "4bea3cd3-2a91-448a-be38-203bfaf58d1e",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/fUzgb0/l/de",
-    "Title": "Mitglieder mit @ erwähnen"
-  },
-  {
-    "Id": "02c4f8fb-75c4-40cc-a479-85731e79de0a",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Mitglieder mit @ erwähnen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "5624482b-431c-4c37-89ff-d6ce514e10bd",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/cyoYT/l/de",
-    "Title": "In Teams chatten"
-  },
-  {
-    "Id": "6024af89-5d1c-499f-a053-c88ffda7e465",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "In Teams chatten",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "a0d5432f-d5f8-4502-a61a-095020fcee67",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/VgdN0/l/de",
-    "Title": "Nachricht mit Zitat beantworten"
-  },
-  {
-    "Id": "e41c519a-ee85-4d68-be0e-cdd836c85d97",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Nachricht mit Zitat beantworten",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "55ba10d5-a5c0-440f-afe2-8e27bb77718c",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/2Xiub3/l/de",
-    "Title": "Eine Nachricht nachträglich bearbeiten"
-  },
-  {
-    "Id": "291b207a-240c-4aa4-9f38-df8688840441",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Eine Nachricht nachträglich bearbeiten",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "66fb0ded-136f-4260-a781-4f2cc7a9b44c",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/mKsqq0/l/de",
-    "Title": "Einen Gruppenchat starten"
-  },
-  {
-    "Id": "8dc20e5c-85e8-474b-942e-8e6411948329",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Einen Gruppenchat starten",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "093462b1-ee83-4e75-80df-59e7d270aa83",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/5N4Yl0/l/de",
-    "Title": "Weitere Person zu einem Chat hinzufügen"
-  },
-  {
-    "Id": "26ac59d5-8665-4849-89af-ed38a4276c48",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Weitere Person zu einem Chat hinzufügen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "09c6d759-8214-4ed8-8d22-621dad7299ef",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/nMFv13/l/de",
-    "Title": "Chat als Pop-Out-Chatfenster öffnen"
-  },
-  {
-    "Id": "9681befa-cffc-4568-b92b-b54e8f1f24a8",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Chat als Pop-Out-Chatfenster öffnen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "7d98961d-6144-4525-8e80-8ad97e7581a1",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/sO51T3/l/de",
-    "Title": "Loop-Komponenten via Chat verschicken"
-  },
-  {
-    "Id": "e11aa5d4-d907-4db0-aa71-51feac68b1d3",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Loop-Komponenten via Chat verschicken",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "c05475bd-4b12-499a-8bd8-d7a11d1433c0",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/I7NkO1/l/de",
-    "Title": "Eine Chat-Nachricht anpinnen"
-  },
-  {
-    "Id": "2cfefd00-ba22-42d2-8a5b-34549cc86547",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Eine Chat-Nachricht anpinnen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "094b8bcc-94ac-4b20-a143-3a64ef5109fc",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/JL4WR3/l/de",
-    "Title": "Nachricht in einem Kanal posten"
-  },
-  {
-    "Id": "36cc63d2-4da2-495d-b795-7c6226fd8bcd",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Nachricht in einem Kanal posten",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "d3a82241-3bd3-4692-9b84-3115df1063d5",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/qcCMj/l/de",
-    "Title": "Eine Nachricht mit einem Lesezeichen versehen"
-  },
-  {
-    "Id": "04305f7d-ef87-40ee-9167-821ccf978d56",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Eine Nachricht mit einem Lesezeichen versehen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "6f9dd215-61cd-43a9-9193-88bd544ceff6",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/fUzgb0/l/de",
-    "Title": "Mitglieder mit @ erwähnen"
-  },
-  {
-    "Id": "cc89ebcd-28a9-40c7-b3a4-0bd699fc384d",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Mitglieder mit @ erwähnen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "27d24186-bf21-4fe7-8d4f-c9e521ef2c08",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/FXcFs1/l/de",
-    "Title": "Mit Tags Untergruppen @erwähnen"
-  },
-  {
-    "Id": "d3da038a-bdea-4c01-b499-3798d5599ae9",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Mit Tags Untergruppen @erwähnen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "bdbc7b39-7ff1-4636-8b20-59c0df4b5aa8",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/RK0Wk2/l/de",
-    "Title": "Aus Nachricht eine Aufgabe erstellen"
-  },
-  {
-    "Id": "844540ac-3025-49b6-ac63-fa597d0ec304",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Aus Nachricht eine Aufgabe erstellen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "f83912bd-869f-4733-9a41-9635bb0b0975",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/8bfaX1/l/de",
-    "Title": "Lesebestätigungen und die Möglichkeit sie zu deaktivieren"
-  },
-  {
-    "Id": "4499e8a7-0040-4fb7-ad1c-12b99fb66275",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Lesebestätigungen und die Möglichkeit sie zu deaktivieren",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "ea1b5000-4db3-4396-bf9d-69decef7411f",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/NB602/l/de",
-    "Title": "Über das Suchfeld eine Nachricht schreiben"
-  },
-  {
-    "Id": "937ad232-6d24-400b-970f-eb6eb600037d",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Über das Suchfeld eine Nachricht schreiben",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "032496cf-8ffb-4e86-8c65-dd99955d88d7",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/pTnwu/l/de",
-    "Title": "Emojis und mehr verwenden"
-  },
-  {
-    "Id": "6485b375-0676-49d0-800b-3802ef474193",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Emojis und mehr verwenden",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "c18cf55b-81b1-4b62-a643-b1ac6d69f654",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/5LkEE0/l/de",
-    "Title": "Auf eine Nachricht reagieren: Gefällt mir"
-  },
-  {
-    "Id": "7e49d24c-a94c-4abb-9206-00eebfafe232",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Auf eine Nachricht reagieren: Gefällt mir",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "147324ad-aa69-439d-89aa-e243c234a758",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/Rw0PA/l/de",
-    "Title": "Teams-Benachrichtigungen einstellen"
-  },
-  {
-    "Id": "78a8e83c-7aeb-47ba-a841-8464250efd57",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Teams-Benachrichtigungen einstellen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "0d89786d-37a1-416f-b7e4-d602b8785931",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/TRIqD2/l/de",
-    "Title": "Jemanden anrufen"
-  },
-  {
-    "Id": "e3060675-d36b-42f4-a8e2-6ba35a45faec",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Jemanden anrufen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "8da6d137-778c-4c65-9cfb-114798d2e4ac",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/5aZhT/l/de",
-    "Title": "Mehrere Personen gleichzeitig anrufen"
-  },
-  {
-    "Id": "3111f74a-4a0f-4642-a654-7bc6d1da54dc",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Mehrere Personen gleichzeitig anrufen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "5084ab4e-927b-444e-8bea-a700eb49dd42",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/LLhwa3/l/de",
-    "Title": "Einstellungen für Lautsprecher und Mikrofon"
-  },
-  {
-    "Id": "ed738e1a-cee7-4264-bcfd-657f4cbf36fb",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Einstellungen für Lautsprecher und Mikrofon",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "34f8a2d7-7065-4e7d-b48c-04c1954dc173",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/zyuak/l/de",
-    "Title": "Jemanden zur Kurzwahlliste hinzufügen"
-  },
-  {
-    "Id": "28a1ed85-6fad-4d02-9a3b-0c0bc6f98178",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Jemanden zur Kurzwahlliste hinzufügen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "268569fb-69cc-4e4a-be8b-c103f1c9d388",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/6aWVq0/l/de",
-    "Title": "Anrufbeantworter konfigurieren"
-  },
-  {
-    "Id": "58c5270f-8986-4483-ac0c-701c823e2ffb",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Anrufbeantworter konfigurieren",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "b2f84a9a-210a-4ed0-b917-4c7c4beb6470",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/yKVs92/l/de",
-    "Title": "Einen Videoanruf führen"
-  },
-  {
-    "Id": "9e8bd087-9cda-489a-a52e-4078672b2fb9",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Einen Videoanruf führen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "c060e4f0-bf21-4919-b58f-c32707cef801",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/Aa5Sw/l/de",
-    "Title": "Für Videoanruf Hintergrund kaschieren"
-  },
-  {
-    "Id": "e98ee2e5-9a5e-40d9-83f8-9078ad74a637",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Für Videoanruf Hintergrund kaschieren",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "0251dd34-1f31-4637-a4cc-8c5a92bafd0d",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/55Ski0/l/de",
-    "Title": "Anrufe zusammenführen"
-  },
-  {
-    "Id": "41ee631f-8706-4f0c-953d-aaddb8e02903",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Anrufe zusammenführen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "923b2f3f-e458-413d-87e7-d935a09b0adf",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/MYW7R2/l/de",
-    "Title": "Eine Teams-Besprechung planen"
-  },
-  {
-    "Id": "29dc55e1-6988-4db7-91d4-dfa92242bae6",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Eine Teams-Besprechung planen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "3d6db5da-17e3-4117-85cc-5d5884c8b56b",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/DFegj2/l/de",
-    "Title": "Besprechung für Teammitglieder im Kanal aufsetzen"
-  },
-  {
-    "Id": "0c57dd2e-e747-4286-9ccc-8dcec09fa0c6",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Besprechung für Teammitglieder im Kanal aufsetzen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "d24c6b13-6bf1-4195-87cc-375d3cf5ddc1",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/FC3mN/l/de",
-    "Title": "Externe Personen zu einem Teams-Meeting einladen "
-  },
-  {
-    "Id": "b42f81ef-4610-41e4-a82c-6988139cb5e2",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Externe Personen zu einem Teams-Meeting einladen ",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "59c921a0-21fb-40dc-9ab6-29fa09af5913",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/kUe5S1/l/de",
-    "Title": "Eine Besprechung in Outlook nachträglich zu einer Teamsbesprechung machen"
-  },
-  {
-    "Id": "c70c9602-f9a1-4ee6-aa56-93ad7cdbaa04",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Eine Besprechung in Outlook nachträglich zu einer Teamsbesprechung machen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "78290913-4620-4c44-8bad-c5cc8246f86b",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/fCCAx2/l/de",
-    "Title": "Ein Webinar erstellen"
-  },
-  {
-    "Id": "cfad447b-0ae9-4a5d-9ff8-22dc2134f366",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Ein Webinar erstellen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "cee7cb12-8d5c-4df0-98b7-99a3b2f00ff3",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/1wyRB1/l/de",
-    "Title": "Eine Sofortbesprechung starten"
-  },
-  {
-    "Id": "55d821cd-cc5d-4e64-86e9-d2451a4e9a1b",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Eine Sofortbesprechung starten",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "394d0286-bc99-4010-a405-6b2ab41a1701",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/95Y9r/l/de",
-    "Title": "Eine Sofortbesprechung in einem Kanal starten"
-  },
-  {
-    "Id": "e9b4c37e-b9b0-446f-8bdb-46f0ee986244",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Eine Sofortbesprechung in einem Kanal starten",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "ebf1efd8-a49e-40da-aa23-3330fc42e1ca",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/EJHdf/l/de",
-    "Title": "Die Berechtigungen der Besprechungsteilnehmer einstellen"
-  },
-  {
-    "Id": "b18baf01-f88d-49a4-b600-6e09e7f9ae22",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Die Berechtigungen der Besprechungsteilnehmer einstellen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "4bcd955c-0376-44e6-a346-eb563a568fe8",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/lXn88/l/de",
-    "Title": "In laufender Teams-Besprechung jemanden zum Referenten ändern"
-  },
-  {
-    "Id": "20a82859-ccdb-441b-ba4b-b5750c76487b",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "In laufender Teams-Besprechung jemanden zum Referenten ändern",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "a75403de-5346-4424-a2ed-f59140b578fd",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/XwcBn0/l/de",
-    "Title": "Verschiedene Möglichkeiten, an einer geplanten Besprechung teilzunehmen"
-  },
-  {
-    "Id": "608b174a-1dc8-46c5-b978-ad64690bd992",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Verschiedene Möglichkeiten, an einer geplanten Besprechung teilzunehmen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "08836c25-4fe3-47da-a8e6-5120e9ffe85b",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/XOLGC3/l/de",
-    "Title": "Einstellungen vor Besprechungseintritt"
-  },
-  {
-    "Id": "cc78a210-25ae-49c3-9228-a5031f5a012f",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Einstellungen vor Besprechungseintritt",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "fa9f5cea-480f-49ef-9dcd-94306031773e",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/LLhwa3/l/de",
-    "Title": "Einstellungen für Lautsprecher und Mikrofon"
-  },
-  {
-    "Id": "04d0ab91-2fb2-48eb-9991-1f2a4e39f40f",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Einstellungen für Lautsprecher und Mikrofon",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "e38aed9c-26b2-4fb0-9db6-7e630a5e6f5d",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/F0Uh63/l/de",
-    "Title": "Weitere Person zu einer bereits gestarteten Besprechung hinzufügen"
-  },
-  {
-    "Id": "882fc26f-c259-435a-9934-3696b552c9ae",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Weitere Person zu einer bereits gestarteten Besprechung hinzufügen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "fb33b521-e297-42a0-be74-b7dd559c7ed4",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/VVnco/l/de",
-    "Title": "Ein Webcam-Video für alle Besprechungsteilnehmer fixieren"
-  },
-  {
-    "Id": "f59e9c09-a68e-4627-8c30-c30dda5fd743",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Ein Webcam-Video für alle Besprechungsteilnehmer fixieren",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "4ba34c91-4dea-4d83-aeec-1e9ce25ec98a",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/UiUqy1/l/de",
-    "Title": "Der Together Mode in Videokonferenzen"
-  },
-  {
-    "Id": "d6ccceab-412d-49c4-a50c-4ad4d64bc065",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Der Together Mode in Videokonferenzen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "7cb9f9ee-a336-415c-81a5-1a62161af843",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/ktzVD0/l/de",
-    "Title": "In einer Besprechung die Hand heben"
-  },
-  {
-    "Id": "c91edcf7-5b99-44e6-9611-d73c598797be",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "In einer Besprechung die Hand heben",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "ea08d135-e92e-4f27-9838-b7bcd87ed22c",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/PP9aM3/l/de",
-    "Title": "Alle Hände senken"
-  },
-  {
-    "Id": "ca5bebc5-db16-4f9f-894c-cb30834e4277",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Alle Hände senken",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "65fc93df-fe62-485a-90e2-10eab5c71db9",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/MZObP3/l/de",
-    "Title": "Stummschaltung während einer Besprechung ein-/ausschalten"
-  },
-  {
-    "Id": "0e7a277d-b155-4375-80f2-013e07f471fe",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Stummschaltung während einer Besprechung ein-/ausschalten",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "ae6f124c-5191-4d50-970c-ae63ffa705ed",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/8xfx63/l/de",
-    "Title": "Meine Stummschaltung schnell aufheben (push to talk)"
-  },
-  {
-    "Id": "c1b2b620-d3ac-4a0e-81fc-b4397f9098b1",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Meine Stummschaltung schnell aufheben (push to talk)",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "9ac99214-44d0-4279-801b-d540b9cad56b",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/6c2zd1/l/de",
-    "Title": "Ein Fenster/ den Desktop während einer Besprechung teilen"
-  },
-  {
-    "Id": "816b5b99-cee8-483c-a27a-6d8756b52a17",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Ein Fenster/ den Desktop während einer Besprechung teilen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "ea41167c-497d-4fdd-ab2a-9ad474010450",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/Yob0X2/l/de",
-    "Title": "Der Moderatormodus"
-  },
-  {
-    "Id": "4368fa5f-e040-40d1-82a2-09d729f1bf24",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Der Moderatormodus",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "bd390881-8f60-42e2-960c-b0689c29baa5",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/xOlrH2/l/de",
-    "Title": "Auf die geteilten Inhalte während einer Besprechung fokussieren"
-  },
-  {
-    "Id": "234ece24-1f2e-425f-866e-874638e3c4f5",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Auf die geteilten Inhalte während einer Besprechung fokussieren",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "e02650a3-3fe2-4689-9196-06fcd93ef68b",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/O05nE3/l/de",
-    "Title": "Folien einer gezeigten Präsentation live übersetzen lassen"
-  },
-  {
-    "Id": "47bb0b20-0653-4a86-9729-db42d913c436",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Folien einer gezeigten Präsentation live übersetzen lassen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "ba2d6c17-cc46-41a4-81d1-2b24aabda125",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/nkYbY0/l/de",
-    "Title": "Mit Besprechungsnotizen arbeiten"
-  },
-  {
-    "Id": "c1573239-6472-4b48-9da0-a2260e9589a8",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Mit Besprechungsnotizen arbeiten",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "7c9b4db1-b042-423d-a6c7-847e6efbc482",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/Nt37r0/l/de",
-    "Title": "Das Whiteboard in einer Besprechung nutzen"
-  },
-  {
-    "Id": "022a9d36-623f-477e-821f-8f1f942a36aa",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Das Whiteboard in einer Besprechung nutzen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "e5389d82-e6e1-4705-b1f2-d5e8e575f5cb",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/FmK162/l/de",
-    "Title": "Aufzeichnen während einer Besprechung"
-  },
-  {
-    "Id": "a38e9ede-de66-4327-9569-372235b49167",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Aufzeichnen während einer Besprechung",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "9a95aad2-3c33-4770-b300-0f19acafd756",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/X9Pjd1/l/de",
-    "Title": "Eine Besprechung von einem Gerät auf ein anderes übertragen"
-  },
-  {
-    "Id": "c3bbec9e-7545-44ee-9ae2-d523fde84349",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Eine Besprechung von einem Gerät auf ein anderes übertragen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "b7f7dd5e-eb7f-4aba-8284-1345741cdcae",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/Fkoid0/l/de",
-    "Title": "In einer Besprechung eine Präsentation vorführen"
-  },
-  {
-    "Id": "d0b3682e-37aa-4143-89b8-3b8eb8287c5b",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "In einer Besprechung eine Präsentation vorführen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "78b1d37a-5d4f-45b1-a2da-f604359c5a00",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/oE7dZ2/l/de",
-    "Title": "In einer Besprechung mit Gruppenräumen arbeiten"
-  },
-  {
-    "Id": "b3f5bcb6-91a1-4429-95cb-d1399bef70de",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "In einer Besprechung mit Gruppenräumen arbeiten",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "0d795393-2bd1-4c2d-8f5b-03cb7f579eec",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/l1k9j/l/de",
-    "Title": "Gruppenräume mit einem Zeitlimit versehen"
-  },
-  {
-    "Id": "18564c7b-c024-4f5b-8f35-c1afacb6c84a",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Gruppenräume mit einem Zeitlimit versehen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "e98907f2-ddfe-46bb-82f8-de3786690ffe",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/6Ullk/l/de",
-    "Title": "Zusätzliche Moderatoren für Gruppenräume"
-  },
-  {
-    "Id": "bbde8ed4-91c7-40df-9c51-f3e6ffa2ff2c",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Zusätzliche Moderatoren für Gruppenräume",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "4bf7cb6d-888f-464a-aef2-5581a2efebff",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/aU0aa/l/de",
-    "Title": "Live-Untertitel in Besprechungen"
-  },
-  {
-    "Id": "8eedb81b-e28e-4c3a-a713-6273ec180fa1",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Live-Untertitel in Besprechungen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "b93baf79-77d2-47fd-b27a-afe8b0825946",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/MlKMG2/l/de",
-    "Title": "Besprechungschat in Blasen"
-  },
-  {
-    "Id": "4fcc78df-e00f-484e-b41c-49a273d4dfad",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Besprechungschat in Blasen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "c8ac35d2-5439-41c5-bae5-1f09ca7a0fb7",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/gXVeg0/l/de",
-    "Title": "App in laufende Besprechung einfügen"
-  },
-  {
-    "Id": "8f96ef95-1463-4130-ad24-4dffd28ca9f4",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "App in laufende Besprechung einfügen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "1d58ae6e-9ad7-4439-a6e9-971b1b01ea33",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/1E8vO2/l/de",
-    "Title": "Eine begonnene Besprechung sperren"
-  },
-  {
-    "Id": "383a5022-577c-41f2-b88c-262ad4013d01",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Eine begonnene Besprechung sperren",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "f0d6fdd1-3e64-4d37-8f49-df6425958233",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/kmdkY0/l/de",
-    "Title": "Die Q&A-App für Besprechungen einrichten und moderieren"
-  },
-  {
-    "Id": "53affce8-8beb-4a1d-9596-f78d1504ff51",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Die Q&A-App für Besprechungen einrichten und moderieren",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "7930dc74-2f2a-4b04-814e-728956afeffd",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/tywY4/l/de",
-    "Title": "Mit der Q&A-App in einer Besprechung Fragen stellen"
-  },
-  {
-    "Id": "bfb51a97-bfb3-488f-bab2-d10ab890430d",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Mit der Q&A-App in einer Besprechung Fragen stellen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "202c7488-49ea-4f3c-b905-f3fe2fcd4ff5",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/7hkvL0/l/de",
-    "Title": "Datei einem Kanal hinzufügen"
-  },
-  {
-    "Id": "ba2246f2-689d-4248-9917-d1fa3520386c",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Datei einem Kanal hinzufügen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "81a61c4b-bf4b-4ad9-847b-a7b47b67848e",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/rPuVr2/l/de",
-    "Title": "Ein Dokument bearbeiten"
-  },
-  {
-    "Id": "a42918b6-fcc4-4d37-98a1-f450b77cc518",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Ein Dokument bearbeiten",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "7e4258e2-928b-4f98-84dd-e7fd2f01fdba",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/QDpEK/l/de",
-    "Title": "Dateien löschen und wiederherstellen"
-  },
-  {
-    "Id": "6d0e318d-c5b7-4b0d-ab02-145a70cb562f",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Dateien löschen und wiederherstellen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "29c74aae-30e5-4f66-aa4d-80fd984f3064",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/AxcCh2/l/de",
-    "Title": "Datei als neue Registerkarte erstellen"
-  },
-  {
-    "Id": "ef05470c-df28-450e-aff1-40eaf60d0ccb",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Datei als neue Registerkarte erstellen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "f4ac1b02-6a33-4cb5-b9e1-ce804bbfc60e",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/LP3Rd/l/de",
-    "Title": "Zuletzt bearbeitete Dokumente wiederfinden\t"
-  },
-  {
-    "Id": "18e31ba7-eb62-45a4-ae4c-aabb52e511ff",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Zuletzt bearbeitete Dokumente wiederfinden\t",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "e9c46a82-1c3a-48bf-bf9f-e2cf6eafc9f4",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/CbBwt1/l/de",
-    "Title": "Dateien standardmäßig online oder in App öffnen"
-  },
-  {
-    "Id": "bbd558b0-b7e0-4be6-a545-a5553c8ae896",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Dateien standardmäßig online oder in App öffnen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "67518132-59a8-4598-8de8-ce29a8528b41",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/NXIB02/l/de",
-    "Title": "Dateien via Teams teilen"
-  },
-  {
-    "Id": "4682e8ac-3f8e-443c-ab5c-dff33eae2bd3",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Dateien via Teams teilen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "d9faf3c0-cb3b-41e5-83e5-cda52d733e2e",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/Oqaf30/l/de",
-    "Title": "Dokumente/ Ordner zwischen verschiedenen Teams kopieren/ verschieben"
-  },
-  {
-    "Id": "297305d4-368f-4707-b754-9648023f56b8",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Dokumente/ Ordner zwischen verschiedenen Teams kopieren/ verschieben",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "836d1031-dbea-4829-b15f-f42191c8623c",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/6kMFP0/l/de",
-    "Title": "Mit dem Windows Explorer auf in Teams gespeicherte Dateien zugreifen"
-  },
-  {
-    "Id": "957aea59-29b7-4188-8a24-080247436bd0",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Mit dem Windows Explorer auf in Teams gespeicherte Dateien zugreifen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "1ae55b76-e55c-4071-99cf-10ccd6d9fe35",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/8EkUs2/l/de",
-    "Title": "Dokument aus Desktop-App direkt in einem Team speichern"
-  },
-  {
-    "Id": "0a61444d-ac49-46ff-8852-778eb5a3f099",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Dokument aus Desktop-App direkt in einem Team speichern",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "44c8b25b-3041-4fe5-860e-fd17fec4af16",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/Rw0PA/l/de",
-    "Title": "Teams-Benachrichtigungen einstellen"
-  },
-  {
-    "Id": "6bffd4e0-af3c-406e-b169-1b58d3f1735b",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Teams-Benachrichtigungen einstellen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "279528cc-c30f-44d3-b46a-74cba2afda03",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/lNzfJ3/l/de",
-    "Title": "Mit dem Suchfeld arbeiten"
-  },
-  {
-    "Id": "3ab30e91-8a16-4ed8-8c6e-141689345c72",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Mit dem Suchfeld arbeiten",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "9dfa3edf-f3be-44b9-a7f4-195a49fbc2f5",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/NCSb81/l/de",
-    "Title": "Im Suchfeld Befehle verwenden"
-  },
-  {
-    "Id": "0eca8ced-de14-4116-99ab-8fe7e83ccddc",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Im Suchfeld Befehle verwenden",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "0cb81543-f2a9-4d22-82f9-2eb68f1ee9c8",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/NB602/l/de",
-    "Title": "Über das Suchfeld eine Nachricht schreiben"
-  },
-  {
-    "Id": "29f8e088-a5f4-4831-9555-23ff2e1f832b",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Über das Suchfeld eine Nachricht schreiben",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "991c9fda-7ae5-4b47-b0e3-422d76ed1f03",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/iSiUs2/l/de",
-    "Title": "Nachrichten in einem Kanal oder Chat finden"
-  },
-  {
-    "Id": "c333b382-633b-45d1-b790-61a649f899f0",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Nachrichten in einem Kanal oder Chat finden",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "8e54b689-ba98-4139-9d22-fa4238ae77e5",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/qRxQU/l/de",
-    "Title": "Nach einem Team oder Kanal filtern"
-  },
-  {
-    "Id": "7da9128b-ca4a-49dc-a9b6-ac4858dd6690",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Nach einem Team oder Kanal filtern",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "9c140632-f7a9-48cb-be67-849b5397c435",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/0JtzT3/l/de",
-    "Title": "Neue Posts nicht verpassen"
-  },
-  {
-    "Id": "45526b1b-4374-40d5-b683-aa8cbbeffe1f",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Neue Posts nicht verpassen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "0c6d42d1-1856-43ed-9d41-f80741b4c519",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/qcCMj/l/de",
-    "Title": "Eine Nachricht mit einem Lesezeichen versehen"
-  },
-  {
-    "Id": "4c80ef3d-eea4-4f56-8abd-07dd9a0e7f10",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Eine Nachricht mit einem Lesezeichen versehen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "8dae50e9-6d55-4a65-82fc-e73e4ae9c811",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/LP3Rd/l/de",
-    "Title": "Zuletzt bearbeitete Dokumente wiederfinden\t"
-  },
-  {
-    "Id": "672bbe64-b7b8-41c8-be1b-2f995fa56d3f",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Zuletzt bearbeitete Dokumente wiederfinden\t",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "550d2405-de91-45b9-8e6c-91838c3c7b96",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/jUn1X3/l/de",
-    "Title": "Einführung in die Statusanzeige"
-  },
-  {
-    "Id": "6d1299cb-f9b4-4bc9-983e-6e3cb3398653",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Einführung in die Statusanzeige",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "5b730e3f-bc22-486d-85dc-8c091aacc1e3",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/539qb1/l/de",
-    "Title": "Meine Statusanzeige manuell einstellen"
-  },
-  {
-    "Id": "e3cfbf6a-bccc-4cd7-b4f3-39a92ffc6e1b",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Meine Statusanzeige manuell einstellen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "c7a0014f-bcc1-4a12-8822-67f1e65eb2d2",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/XUlPO/l/de",
-    "Title": "Eine Statusmeldung eintragen"
-  },
-  {
-    "Id": "eb3e6115-74f1-4874-b11f-c21972b50460",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Eine Statusmeldung eintragen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "e9367b3b-0d35-4676-b61f-ff301eda3f94",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/vJBex0/l/de",
-    "Title": "Den Status Nicht-Stören einstellen"
-  },
-  {
-    "Id": "3650cb5b-ab3a-44f8-9945-ebd17f4bbfc5",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Den Status Nicht-Stören einstellen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "a0f23d6b-c447-470f-976d-65a1c8060166",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/PllHJ1/l/de",
-    "Title": "Einen Status für eine bestimmte Dauer einstellen"
-  },
-  {
-    "Id": "ef4c8a7c-ccf0-42a7-864b-048d9dd02902",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Einen Status für eine bestimmte Dauer einstellen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "a007a094-f7b3-4538-964b-469af3f4c4d1",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/lDyml1/l/de",
-    "Title": "Abwesenheitsnotiz in Teams einrichten"
-  },
-  {
-    "Id": "ebd71d55-b393-41b8-9e8e-487ad951fc9e",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Abwesenheitsnotiz in Teams einrichten",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "aff09bc4-a13b-4493-b6c6-0969e6521275",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/j5TKs/l/de",
-    "Title": "Zusammenspiel von Teams und Planner"
-  },
-  {
-    "Id": "d0133f54-82f2-4909-a424-5df6115fba4b",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Zusammenspiel von Teams und Planner",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "d6978bae-885e-42dd-a4ef-88aa3c70dcf3",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/84TPT1/l/de",
-    "Title": "Zusammenspiel von Teams und OneNote"
-  },
-  {
-    "Id": "0c6c120e-bd17-454b-81fc-abe38933c21e",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "Zusammenspiel von Teams und OneNote",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "89f87876-5be8-4a83-8484-d319abefe499",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/dj5vY1/l/de",
-    "Title": "OneNote direkt in Teams nutzen"
-  },
-  {
-    "Id": "5fded92f-95aa-49b2-b01c-440d10eb05e3",
-    "Source": "Soluzione",
-    "TechnologyId": "c77f0e06-c6e0-4c0f-9ec2-398a535ba694",
-    "SubjectId": "",
+    "Title": "OneNote direkt in Teams nutzen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "93709608-ec57-43ae-ae79-84f848e341ee",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/Nt37r0/l/de",
-    "Title": "Das Whiteboard in einer Besprechung nutzen"
-  },
-  {
-    "Id": "82944a22-af42-4364-9a55-375ce4d62aed",
-    "Source": "Soluzione",
-    "TechnologyId": "daad80e8-8fdd-4e4b-a6f0-e48e1f9e0c5a",
-    "SubjectId": "",
+    "Title": "Das Whiteboard in einer Besprechung nutzen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "5efe1924-174c-4d39-b1dd-8ba8e74740f1",
+    "SubjectId": ""
+  },
+  {
+    "Id": "44d6163f-787d-4519-b410-8f0cbac0b52e",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/tcJ5T3/l/de",
-    "Title": "2-Faktor-Authentifizierung: Was ist das?"
-  },
-  {
-    "Id": "a79e1d59-b3a4-4147-836d-aef2484f5f53",
-    "Source": "Soluzione",
-    "TechnologyId": "daad80e8-8fdd-4e4b-a6f0-e48e1f9e0c5a",
-    "SubjectId": "",
+    "Title": "2-Faktor-Authentifizierung: Was ist das?",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "9f15a63d-bdc5-4703-b865-63aebcf92133",
+    "SubjectId": ""
+  },
+  {
+    "Id": "a0ac681a-cdc7-4047-810b-4810b937e93d",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/MXsdN0/l/de",
-    "Title": "Authentifizierung via Anruf einrichten"
-  },
-  {
-    "Id": "0e7960f2-e394-4004-a45d-0cfd57809cad",
-    "Source": "Soluzione",
-    "TechnologyId": "daad80e8-8fdd-4e4b-a6f0-e48e1f9e0c5a",
-    "SubjectId": "",
+    "Title": "Authentifizierung via Anruf einrichten",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "9f15a63d-bdc5-4703-b865-63aebcf92133",
+    "SubjectId": ""
+  },
+  {
+    "Id": "3efcb993-4727-43ac-9be0-6b3bd6aa67b7",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/4b4Et2/l/de",
-    "Title": "Authentifizierung via Anruf nutzen"
-  },
-  {
-    "Id": "4245f493-b335-40e1-a285-fc088258152d",
-    "Source": "Soluzione",
-    "TechnologyId": "daad80e8-8fdd-4e4b-a6f0-e48e1f9e0c5a",
-    "SubjectId": "",
+    "Title": "Authentifizierung via Anruf nutzen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "9f15a63d-bdc5-4703-b865-63aebcf92133",
+    "SubjectId": ""
+  },
+  {
+    "Id": "bc57999f-fe38-470f-a7f5-6b9697240ece",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/2uZji0/l/de",
-    "Title": "Authentifizierung via SMS einrichten"
-  },
-  {
-    "Id": "777a6e77-3905-4cca-8850-dcb624da24c3",
-    "Source": "Soluzione",
-    "TechnologyId": "daad80e8-8fdd-4e4b-a6f0-e48e1f9e0c5a",
-    "SubjectId": "",
+    "Title": "Authentifizierung via SMS einrichten",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "9f15a63d-bdc5-4703-b865-63aebcf92133",
+    "SubjectId": ""
+  },
+  {
+    "Id": "b12b3274-b475-4ca1-acae-5a4fe9cd07c7",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/SCfzd2/l/de",
-    "Title": "Authentifizierung via SMS nutzen"
-  },
-  {
-    "Id": "c24bc0ac-9d28-412f-9d64-4123a5826653",
-    "Source": "Soluzione",
-    "TechnologyId": "daad80e8-8fdd-4e4b-a6f0-e48e1f9e0c5a",
-    "SubjectId": "",
+    "Title": "Authentifizierung via SMS nutzen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "9f15a63d-bdc5-4703-b865-63aebcf92133",
+    "SubjectId": ""
+  },
+  {
+    "Id": "d0d44c17-f3a8-4144-9314-54dc6b331462",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/xHuWC3/l/de",
-    "Title": "Authentifizierung mit Benachrichtigung in der Authenticator App einrichten"
-  },
-  {
-    "Id": "ce566bf7-8b54-4dd3-a790-c8a01da16c1a",
-    "Source": "Soluzione",
-    "TechnologyId": "daad80e8-8fdd-4e4b-a6f0-e48e1f9e0c5a",
-    "SubjectId": "",
+    "Title": "Authentifizierung mit Benachrichtigung in der Authenticator App einrichten",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "9f15a63d-bdc5-4703-b865-63aebcf92133",
+    "SubjectId": ""
+  },
+  {
+    "Id": "aefc5a43-fa50-42cd-a611-e8a5399f31b0",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/xCCYJ1/l/de",
-    "Title": "Authentifizierung mit Benachrichtigung in der Authenticator App nutzen"
-  },
-  {
-    "Id": "25ab1fef-2404-4fc7-b8c7-78a0d043cd99",
-    "Source": "Soluzione",
-    "TechnologyId": "daad80e8-8fdd-4e4b-a6f0-e48e1f9e0c5a",
-    "SubjectId": "",
+    "Title": "Authentifizierung mit Benachrichtigung in der Authenticator App nutzen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "9f15a63d-bdc5-4703-b865-63aebcf92133",
+    "SubjectId": ""
+  },
+  {
+    "Id": "1c64c9c9-1284-4135-a8ca-a2ad71ed835d",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/4pfGF1/l/de",
-    "Title": "Authentifizierung mit Prüfcode aus der Authenticator App einrichten"
-  },
-  {
-    "Id": "935c7c8a-7671-41cc-b339-ed6c1f308699",
-    "Source": "Soluzione",
-    "TechnologyId": "daad80e8-8fdd-4e4b-a6f0-e48e1f9e0c5a",
-    "SubjectId": "",
+    "Title": "Authentifizierung mit Prüfcode aus der Authenticator App einrichten",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "9f15a63d-bdc5-4703-b865-63aebcf92133",
+    "SubjectId": ""
+  },
+  {
+    "Id": "22ff100b-8fcc-42dd-ae86-1711cd657147",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/MjqA83/l/de",
-    "Title": "Authentifizierung mit Prüfcode aus der Authenticator App nutzen"
-  },
-  {
-    "Id": "6ea9e755-a11f-44b0-9177-6c7342d68da8",
-    "Source": "Soluzione",
-    "TechnologyId": "daad80e8-8fdd-4e4b-a6f0-e48e1f9e0c5a",
-    "SubjectId": "",
+    "Title": "Authentifizierung mit Prüfcode aus der Authenticator App nutzen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "9f15a63d-bdc5-4703-b865-63aebcf92133",
+    "SubjectId": ""
+  },
+  {
+    "Id": "314decbc-f88f-41fe-ad07-202b6791d865",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/12kbY2/l/de",
-    "Title": "Einstellungen für die 2-Faktor-Authentifizierung ändern"
-  },
-  {
-    "Id": "127f7c03-f318-4f72-aae3-879dc8052401",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Einstellungen für die 2-Faktor-Authentifizierung ändern",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "9f15a63d-bdc5-4703-b865-63aebcf92133",
+    "SubjectId": ""
+  },
+  {
+    "Id": "b6fdf20a-7f88-4319-b64c-29e131a5561b",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/JTysa0/l/de",
-    "Title": "Einführung in das Arbeiten mit UseCases im soluzione42 Web"
-  },
-  {
-    "Id": "d000f62f-c567-4b44-acdd-cb742673906b",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Einführung in das Arbeiten mit UseCases im soluzione42 Web",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "7f233a0b-eab3-45cc-b7da-184339091bbe",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/3Kexl2/l/de",
-    "Title": "Einführung in das Arbeiten mit UseCases in der soluzione42 App"
-  },
-  {
-    "Id": "04cf9276-d150-425d-a5fd-3e3e23497804",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Einführung in das Arbeiten mit UseCases in der soluzione42 App",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "6d59e0a8-1298-4f9f-8d7b-7c25278c4a87",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/AgUdM3/l/de",
-    "Title": "Intro UseCase: Spontane Sofortbesprechung"
-  },
-  {
-    "Id": "e3b47f1a-f9d9-477b-9b73-dd370424fd55",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Intro UseCase: Spontane Sofortbesprechung",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "e7efb5fa-552b-460f-a331-5b41d8482fed",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/glVH91/l/de",
-    "Title": "Teams: Eine Sofortbesprechung im Kanal starten"
-  },
-  {
-    "Id": "652f3065-c83b-4e94-a75a-08824857cfa9",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Eine Sofortbesprechung im Kanal starten",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "81cdcfea-231f-4aa0-b90c-82a3ea5fd162",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/M47T0/l/de",
-    "Title": "Teams: Ein Fenster / den Desktop während einer Besprechung teilen"
-  },
-  {
-    "Id": "addd6e8a-8f0a-49b4-86c1-3f8983b1b98b",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Ein Fenster / den Desktop während einer Besprechung teilen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "2cfcd49d-02bc-4599-9317-af786d22b937",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/fPrht1/l/de",
-    "Title": "Teams: Mit Besprechungsnotizen arbeiten"
-  },
-  {
-    "Id": "1f803f15-f921-4a61-a7c8-7ebf3883dbee",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Mit Besprechungsnotizen arbeiten",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "507d6c66-d60d-4b16-9981-c3d8f22b684f",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/pX1bE3/l/de",
-    "Title": "Teams: Neue Registerkarte in einem Kanal erstellen"
-  },
-  {
-    "Id": "44896820-e9e9-4381-8b5f-7e1ee855e8be",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Neue Registerkarte in einem Kanal erstellen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "0de7f7a7-c5e5-4401-8e7d-efe13eea2b87",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/9V7S31/l/de",
-    "Title": "Planner: Neue Aufgabe erstellen"
-  },
-  {
-    "Id": "bc4e662d-e352-4549-9b9e-50d81f24150a",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Planner: Neue Aufgabe erstellen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "05979048-0dd6-4ee1-aede-78a646d53eef",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/bWvw5/l/de",
-    "Title": "Quick Tipps: Sofortbesprechung"
-  },
-  {
-    "Id": "56f82ede-cbb7-4c32-8612-b70f09afe747",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Quick Tipps: Sofortbesprechung",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "46d7e5bf-f160-4610-8da6-3499eeef720c",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/icLKd3/l/de",
-    "Title": "Intro UseCase: Teams kennenlernen"
-  },
-  {
-    "Id": "04d255a3-1e4e-459e-baf0-9981f6169892",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Intro UseCase: Teams kennenlernen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "986b822f-e54c-435a-b1bb-f1ee957ce96b",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/8NGep0/l/de",
-    "Title": "Teams: Einführung in das Arbeiten mit Microsoft Teams"
-  },
-  {
-    "Id": "9d6a1e1b-aeaa-46a4-b41b-3c29bd198287",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Einführung in das Arbeiten mit Microsoft Teams",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "937ad031-0e47-4337-8c9d-b294910771ba",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/q6QfL/l/de",
-    "Title": "Teams: Einführung in das Rollenkonzept"
-  },
-  {
-    "Id": "5cf8739a-a82a-432e-88a8-c1767fd3c5d4",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Einführung in das Rollenkonzept",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "60717d40-bada-4073-ae2a-a24ff1ba3f33",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/lJFmZ1/l/de",
-    "Title": "Teams: Der Aufbau eines Teams"
-  },
-  {
-    "Id": "bcb68a79-ae3f-4a6d-9063-fb746d39f269",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Der Aufbau eines Teams",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "f01637dc-89f5-4eef-873e-4fd650f7a410",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/pYvVZ3/l/de",
-    "Title": "Teams: Einführung in die Teamliste"
-  },
-  {
-    "Id": "96291d59-40b6-4266-8f18-b299413247d7",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Einführung in die Teamliste",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "0121cde9-9872-4857-8a22-81768b514d3e",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/Rzo1o0/l/de",
-    "Title": "Quick Tipps: Teams kennenlernen"
-  },
-  {
-    "Id": "7ebec7fb-b428-4db6-8dde-6631ab9c7a23",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Quick Tipps: Teams kennenlernen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "20f68b84-630c-4484-baba-5c3953f8b04e",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/pGFeF0/l/de",
-    "Title": "Intro UseCase: Ungestört arbeiten"
-  },
-  {
-    "Id": "38517002-636d-40e9-ba97-daef4fb36f71",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Intro UseCase: Ungestört arbeiten",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "6ee4ea4e-ff74-4811-b1ad-43cb96229ad6",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/Pm7413/l/de",
-    "Title": "Outlook: Terminblocker im Kalender setzen"
-  },
-  {
-    "Id": "72941555-3612-4b50-8537-64d351dbb995",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Outlook: Terminblocker im Kalender setzen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "e63869ce-bf1d-4b6b-b4ac-ba98a51c6543",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/VI4S72/l/de",
-    "Title": "Outlook: Ändern wie Sie über neue E-Mails informiert werden"
-  },
-  {
-    "Id": "7607c043-5d95-488b-bb7a-a1a07947e66b",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Outlook: Ändern wie Sie über neue E-Mails informiert werden",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "48c38362-69fc-4539-a294-2b055505c913",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/e3OJx/l/de",
-    "Title": "Teams: Profilstatus auf Nicht-Stören umstellen"
-  },
-  {
-    "Id": "2430033a-e47f-439d-88f5-6f678b05a59d",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Profilstatus auf Nicht-Stören umstellen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "4bd612bc-30ae-4a74-b271-b69d87f43903",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/K0N5C0/l/de",
-    "Title": "Windows: Benachrichtigungen für eine Zeit deaktivieren"
-  },
-  {
-    "Id": "146780ef-4d55-4a8c-8aad-9a937d414f53",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Windows: Benachrichtigungen für eine Zeit deaktivieren",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "0ea2ff1c-db99-4a35-8262-f85ade4c1a43",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/6ikpz2/l/de",
-    "Title": "Quick Tipps: ungestörtes Arbeiten"
-  },
-  {
-    "Id": "da6ec2b4-cbad-469f-82df-fd96d8720174",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Quick Tipps: ungestörtes Arbeiten",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "3b07d2c1-5cf2-4621-af03-bb16465afbb2",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/EVIww2/l/de",
-    "Title": "Intro UseCase: Mein digitaler Arbeitsplatz"
-  },
-  {
-    "Id": "7e54816b-b5fc-4cab-8e3f-93cda6a6eee4",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Intro UseCase: Mein digitaler Arbeitsplatz",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "7b13d344-af00-4c96-98e9-19bde6d587f9",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/Kb9SB0/l/de",
-    "Title": "Teams: Ein Team aus der Teamliste ausblenden"
-  },
-  {
-    "Id": "5f9f62e2-3931-4328-b9a9-83aa99e38785",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Ein Team aus der Teamliste ausblenden",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "9c67cca2-8258-4da2-9469-5b5e55e53635",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/wrTwy/l/de",
-    "Title": "Teams: Kanalbenachrichtigungen einstellen"
-  },
-  {
-    "Id": "c2039df2-4032-4d8b-bb8f-ff476fbf5b33",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Kanalbenachrichtigungen einstellen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "19df7075-ad10-4641-ad44-f208916854cb",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/1muo42/l/de",
-    "Title": "Teams: Lesebestätigung und die Möglichkeit sie zu deaktivieren"
-  },
-  {
-    "Id": "51f79a5b-da95-41bd-8978-0e57114fab90",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Lesebestätigung und die Möglichkeit sie zu deaktivieren",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "23c5e7e2-1518-47d0-a631-6a99210da634",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/pCpF53/l/de",
-    "Title": "Teams: Eine Statusmeldung eintragen"
-  },
-  {
-    "Id": "4865bfcc-cf11-4724-a533-959279686d0b",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Eine Statusmeldung eintragen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "c93716cb-c87a-4e58-af1f-9eb4e4ea0706",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/jchZH0/l/de",
-    "Title": "Teams: Einstellungen für Lautsprecher und Mikrofon"
-  },
-  {
-    "Id": "c3482557-d4ae-4891-a11f-a60fa0b9f1c5",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Einstellungen für Lautsprecher und Mikrofon",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "a1570d99-2c4a-4585-b6b0-41a3c3888f55",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/Ryijt/l/de",
-    "Title": "Teams: Anrufbeantworter konfigurieren"
-  },
-  {
-    "Id": "235649cd-a550-4c7b-ada7-8d4e9aa8dc8c",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Anrufbeantworter konfigurieren",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "5229f45b-f65a-4273-94f8-c56c329d02a2",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/6N75w1/l/de",
-    "Title": "Quick Tipps: Mein digitaler Arbeitsplatz"
-  },
-  {
-    "Id": "30eecf4b-1789-4c68-82fe-e8189d0db7d5",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Quick Tipps: Mein digitaler Arbeitsplatz",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "bf3e2b51-184e-4f26-b8dd-1850b058962d",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/NUq8k0/l/de",
-    "Title": "Intro UseCase: Mein Team aufbauen"
-  },
-  {
-    "Id": "e71d7e20-ce94-4c5e-b5cf-3062495c8cb7",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Intro UseCase: Mein Team aufbauen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "2510966d-3dd0-420f-9d98-864b1171d8a0",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/98CtX3/l/de",
-    "Title": "Quick Check: Vorbereitung und Checkliste für Teambesitzer"
-  },
-  {
-    "Id": "1c587c26-7758-4d9d-b864-dd41ddc124d2",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Quick Check: Vorbereitung und Checkliste für Teambesitzer",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "6d6d5935-6f72-47e0-8f57-08663f776cbf",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/rZgPa1/l/de",
-    "Title": "Teams: Ein privates Team erstellen"
-  },
-  {
-    "Id": "9a60b569-9b8a-4b74-b5ce-7cbbb69188b3",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Ein privates Team erstellen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "df043903-98ed-4c6f-9fce-560635360080",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/SROTH/l/de",
-    "Title": "Teams: Neuen Kanal erstellen"
-  },
-  {
-    "Id": "b0157d5d-faf3-433c-a1fe-c7f391251743",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Neuen Kanal erstellen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "71834a23-92b8-483f-bd20-40685ec5d03e",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/ABEHs0/l/de",
-    "Title": "Teams: Neue Registerkarte in einem Kanal erstellen"
-  },
-  {
-    "Id": "7b2d4161-abd7-440b-a5a7-84178fa4156b",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Neue Registerkarte in einem Kanal erstellen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "05dd85c5-80a5-44d9-9d9b-58ec42a30b7f",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/kc4hd3/l/de",
-    "Title": "Teams: Datei einem Kanal hinzufügen"
-  },
-  {
-    "Id": "a78afa14-8590-45c6-baad-6b58dc27417d",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Datei einem Kanal hinzufügen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "3d0e496c-3ee2-4580-ad61-4f555ba29a6b",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/2NroU1/l/de",
-    "Title": "Teams: Nachricht in einem Kanal posten"
-  },
-  {
-    "Id": "d0152242-08c4-44a8-a031-a74bd8155b59",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Nachricht in einem Kanal posten",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "c000ce62-d37c-4f91-87e3-49d0525e94b2",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/l04VS/l/de",
-    "Title": "Teams: Weitere Mitglieder zu einem Team hinzufügen"
-  },
-  {
-    "Id": "340761fa-ee7c-456e-839f-2c37b3b58245",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Weitere Mitglieder zu einem Team hinzufügen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "4b8d2a25-6752-476f-8a3c-34243ca893d2",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/V7oy01/l/de",
-    "Title": "Quick Tipps: Mein Team aufbauen"
-  },
-  {
-    "Id": "ca6d19c9-97ee-416a-9fd5-b56215e7a66e",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Quick Tipps: Mein Team aufbauen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "a3fa2642-a845-4b4f-851b-220ad6b5aff1",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/LAP551/l/de",
-    "Title": "Intro UseCase: Schriftliche Kommunikation vereinfachen"
-  },
-  {
-    "Id": "426143ba-c826-4bbe-b869-27ec4ff801d2",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Intro UseCase: Schriftliche Kommunikation vereinfachen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "2b388425-2502-469e-bb45-2d8ff2dfaa63",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/dCeVI3/l/de",
-    "Title": "Quick Check: Schriftliche Kommunikation im Team"
-  },
-  {
-    "Id": "78ffbc70-f22a-4f7c-934d-db99083b6533",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Quick Check: Schriftliche Kommunikation im Team",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "9cf0bd66-1f44-48b6-aa71-cf768c956cec",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/RvWmq1/l/de",
-    "Title": "Teams: Mitglieder mit @ erwähnen"
-  },
-  {
-    "Id": "e554ccb1-421f-4602-a60e-262e73f33bab",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Mitglieder mit @ erwähnen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "37f60c41-67af-4882-b2a7-00b5d5473862",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/cVFN2/l/de",
-    "Title": "Teams: Auf eine Nachricht reagieren: Gefällt mir"
-  },
-  {
-    "Id": "064dba76-0f33-40ed-bf21-1914de63dfa9",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Auf eine Nachricht reagieren: Gefällt mir",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "c2846fd0-5265-4bc5-b658-6194c80e22a0",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/mBRw81/l/de",
-    "Title": "Teams: Emojis und mehr verwenden"
-  },
-  {
-    "Id": "d3bb415e-af86-48ff-b1fb-bd7fe66e4fbe",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Emojis und mehr verwenden",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "52fb0182-a83b-444f-9f39-236e0c1b4ac7",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/Gq41K3/l/de",
-    "Title": "Teams: Eine Nachricht mit einem Lesezeichen versehen"
-  },
-  {
-    "Id": "7f26fa04-5887-4116-a0af-fe89e20d86ec",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Eine Nachricht mit einem Lesezeichen versehen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "24f9f3ab-eabb-464c-ae53-5a09431e1bd5",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/M0v3q1/l/de",
-    "Title": "Teams: E-Mail an einen Kanal senden"
-  },
-  {
-    "Id": "d1b98b15-53b0-4040-8e3f-4ca01bad659b",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: E-Mail an einen Kanal senden",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "6a30d1d9-d021-44e5-a985-c95471f9de75",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/Z1wnB/l/de",
-    "Title": "Quick Tipps: Schriftliche Kommunikation"
-  },
-  {
-    "Id": "2bb84424-737c-487c-a390-db60e9a59f7c",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Quick Tipps: Schriftliche Kommunikation",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "7eb611e3-a3b8-4168-9a29-59512ae076fd",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/CdTWg2/l/de",
-    "Title": "Intro UseCase: Online-Besprechungen souverän meistern"
-  },
-  {
-    "Id": "dec1fb27-0df4-43f5-ae28-988a3ed87438",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Intro UseCase: Online-Besprechungen souverän meistern",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "5bb39062-6a8c-4e9a-8827-9aeea02491be",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/meXNV0/l/de",
-    "Title": "Quick Check: Online-Besprechungen"
-  },
-  {
-    "Id": "c9b967fb-4d6c-44df-8d49-fecf7cf500be",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Quick Check: Online-Besprechungen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "d21ae2aa-82a6-45c5-a0f5-884def59939c",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/i9D1e/l/de",
-    "Title": "Teams: Stummschaltung während einer Besprechung ein-/ausschalten"
-  },
-  {
-    "Id": "86c6814d-56a8-412e-8d71-4a8331f6453e",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Stummschaltung während einer Besprechung ein-/ausschalten",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "562576d8-b2b2-4922-8caa-63752782b56e",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/jjLSO2/l/de",
-    "Title": "Teams: Für Videoanruf Hintergrund kaschieren"
-  },
-  {
-    "Id": "db701450-106c-4b32-b5ed-3c9083002367",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Für Videoanruf Hintergrund kaschieren",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "276d618c-6d94-497e-a535-28752759219e",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/l7q3k2/l/de",
-    "Title": "Teams: Aufzeichnen während einer Besprechung"
-  },
-  {
-    "Id": "b2f9cd14-bce9-46ac-ba5a-ca03bb23eeb6",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Aufzeichnen während einer Besprechung",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "47a338a0-679d-49fb-8178-a95ad5431635",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/XHphW0/l/de",
-    "Title": "Teams: In einer Besprechung die Hand heben"
-  },
-  {
-    "Id": "32d636ff-723b-47fc-8214-109539a6a399",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: In einer Besprechung die Hand heben",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "a835745e-8575-4f68-a678-f97daf7c340d",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/FR33d/l/de",
-    "Title": "Teams: Ein Fenster / den Desktop während einer Besprechung teilen"
-  },
-  {
-    "Id": "d9d5666a-ce26-4971-a186-bbc18dc193b7",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Ein Fenster / den Desktop während einer Besprechung teilen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "c0d42332-3467-487f-bf34-55017999f788",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/gWZJH2/l/de",
-    "Title": "Quick Tipps: Online-Besprechungen"
-  },
-  {
-    "Id": "784df041-1047-415a-9945-802a35ac6d7f",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Quick Tipps: Online-Besprechungen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "b8b75d4d-ca05-4d3d-b47c-12e2efb3597e",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/3J72w0/l/de",
-    "Title": "Intro UseCase: Mit Teams im HomeOffice"
-  },
-  {
-    "Id": "2eb3ccd3-ad2f-42ce-a501-b802b9abd1ee",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Intro UseCase: Mit Teams im HomeOffice",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "83c65a44-9a51-494c-a27c-8ce0a94496c7",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/lQuXR3/l/de",
-    "Title": "Teams: Ein privates Team erstellen"
-  },
-  {
-    "Id": "36e9e4f6-7784-4a2f-9d76-bbfd1a5db206",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Ein privates Team erstellen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "3dbed7cc-5a72-4f6f-a657-40faddea6918",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/zOgVP1/l/de",
-    "Title": "Teams: Weitere Mitglieder zu einem Team hinzufügen"
-  },
-  {
-    "Id": "f42c6fb1-c40a-45fa-8966-7b395e76f6da",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Weitere Mitglieder zu einem Team hinzufügen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "2bf4063b-eeb5-4dd5-a497-8af306db70d4",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/gZPbT/l/de",
-    "Title": "Teams: Neuen Kanal erstellen"
-  },
-  {
-    "Id": "4318846c-1483-4a5a-8f17-4c5ad0ba8e6d",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Neuen Kanal erstellen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "1cacaf96-98c2-4833-ab92-a6b282add5f3",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/eRKoz0/l/de",
-    "Title": "Teams: Eine Sofortbesprechung in einem Kanal starten"
-  },
-  {
-    "Id": "949ebab5-3861-41be-992d-cd2520d949b4",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Eine Sofortbesprechung in einem Kanal starten",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "762a998f-98a2-4d64-8407-8178c23fc134",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/At88T3/l/de",
-    "Title": "Teams: Teams-Besprechung planen"
-  },
-  {
-    "Id": "0863a826-dc61-4e3e-97e5-5e07feaf7ad1",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Teams-Besprechung planen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "a0ad49f8-0705-4e6a-a330-57bb6384a663",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/Y6mqO1/l/de",
-    "Title": "Outlook: Eine Teams-Besprechung in Outlook erstellen und teilnehmen"
-  },
-  {
-    "Id": "e1765917-43db-49d8-9dd1-1021921bdaf1",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Outlook: Eine Teams-Besprechung in Outlook erstellen und teilnehmen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "5424a432-d549-4706-8c0e-36de931f0cba",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/bYXqK/l/de",
-    "Title": "Teams: Weitere Person zu einer bereits gestarteten Besprechung hinzufügen"
-  },
-  {
-    "Id": "72d359aa-bdf9-426c-a000-f4e5e6436b52",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Weitere Person zu einer bereits gestarteten Besprechung hinzufügen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "9fe28707-3eca-431b-b1a9-9dc79ce30058",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/Vyxpo0/l/de",
-    "Title": "Teams: Ein Fenster/ den Desktop während einer Besprechung teilen"
-  },
-  {
-    "Id": "6ab47d2b-7aac-438e-8207-649b457cb8e0",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Ein Fenster/ den Desktop während einer Besprechung teilen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "3b7683ce-da5f-4558-b258-b6ff86c43273",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/So464/l/de",
-    "Title": "Teams: In Teams chatten"
-  },
-  {
-    "Id": "7239ce39-7e94-4990-82fa-011bc0d154a5",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: In Teams chatten",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "c314815e-70e1-4697-b05d-a0fbbc253910",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/QiK961/l/de",
-    "Title": "Teams: Jemanden anrufen"
-  },
-  {
-    "Id": "4d12bb6d-873c-4368-8ad6-e0fca2457b08",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Jemanden anrufen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "84b4ce8d-9912-4a95-b328-9844cffbf147",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/CMvIH3/l/de",
-    "Title": "Teams: Mehrere Personen gleichzeitig anrufen"
-  },
-  {
-    "Id": "d48587dc-f0c0-4af0-9b27-f0b7b5a34423",
-    "Source": "Soluzione",
-    "TechnologyId": "78c5abeb-e085-4822-9abb-10107ab8b2a4",
-    "SubjectId": "",
+    "Title": "Teams: Mehrere Personen gleichzeitig anrufen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "a516bf88-0db8-4678-8037-eb656483cc20",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/O7bqr1/l/de",
-    "Title": "Quick Tipps: HomeOffice"
-  },
-  {
-    "Id": "b53ee27f-b162-4328-ab11-c891dacc5628",
-    "Source": "Soluzione",
-    "TechnologyId": "76826fda-d4d3-4584-b59a-550c3f6a9f04",
-    "SubjectId": "",
+    "Title": "Quick Tipps: HomeOffice",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "c52e03ed-f93e-4834-b353-0dad2aad6ee7",
+    "SubjectId": ""
+  },
+  {
+    "Id": "c7d38f56-cf08-4fb6-a53e-be72b627f2bb",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/SxkaI/l/de",
-    "Title": "Kommunikationskanäle: Einführung"
-  },
-  {
-    "Id": "517cd9fa-b119-4b8f-b22e-30b786a2b872",
-    "Source": "Soluzione",
-    "TechnologyId": "76826fda-d4d3-4584-b59a-550c3f6a9f04",
-    "SubjectId": "",
+    "Title": "Kommunikationskanäle: Einführung",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "56fa6e55-3e1f-4f4c-8bf4-00263f4177af",
+    "SubjectId": ""
+  },
+  {
+    "Id": "7c3023c9-2bc2-4cc6-813c-e1042aa3f218",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/mygjT1/l/de",
-    "Title": "Kommunikationskanäle: E-Mail"
-  },
-  {
-    "Id": "617d4c2a-bafa-4f25-83ba-12cc33e14904",
-    "Source": "Soluzione",
-    "TechnologyId": "76826fda-d4d3-4584-b59a-550c3f6a9f04",
-    "SubjectId": "",
+    "Title": "Kommunikationskanäle: E-Mail",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "56fa6e55-3e1f-4f4c-8bf4-00263f4177af",
+    "SubjectId": ""
+  },
+  {
+    "Id": "46b42d8f-2e57-4f2a-9dc4-f841d01f63c6",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/EsUqe3/l/de",
-    "Title": "Kommunikationskanäle: 1:1 Chat"
-  },
-  {
-    "Id": "974e235f-2362-41d1-ab6d-213f420f1b01",
-    "Source": "Soluzione",
-    "TechnologyId": "76826fda-d4d3-4584-b59a-550c3f6a9f04",
-    "SubjectId": "",
+    "Title": "Kommunikationskanäle: 1:1 Chat",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "56fa6e55-3e1f-4f4c-8bf4-00263f4177af",
+    "SubjectId": ""
+  },
+  {
+    "Id": "bdd966f2-4e1d-4482-8c93-a112594133bb",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/LjSKl0/l/de",
-    "Title": "Kommunikationskanäle: Gruppen-Chat"
-  },
-  {
-    "Id": "98e48318-7164-4345-9b8d-4aea8a9be35b",
-    "Source": "Soluzione",
-    "TechnologyId": "76826fda-d4d3-4584-b59a-550c3f6a9f04",
-    "SubjectId": "",
+    "Title": "Kommunikationskanäle: Gruppen-Chat",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "56fa6e55-3e1f-4f4c-8bf4-00263f4177af",
+    "SubjectId": ""
+  },
+  {
+    "Id": "1425b3c8-3d9f-4b81-813f-98f25b33f3af",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/f8p8O/l/de",
-    "Title": "Kommunikationskanäle: Kanal-Beitrag"
-  },
-  {
-    "Id": "291fe285-b344-4c97-a891-fd4cbfe2c150",
-    "Source": "Soluzione",
-    "TechnologyId": "76826fda-d4d3-4584-b59a-550c3f6a9f04",
-    "SubjectId": "",
+    "Title": "Kommunikationskanäle: Kanal-Beitrag",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "56fa6e55-3e1f-4f4c-8bf4-00263f4177af",
+    "SubjectId": ""
+  },
+  {
+    "Id": "f762b3c3-f708-4aa9-834a-b7a27ff98767",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/J2qUb1/l/de",
-    "Title": "Kommunikationskanäle: Präsenzmeetings"
-  },
-  {
-    "Id": "4c625840-d343-4287-bd21-86c965dfacfa",
-    "Source": "Soluzione",
-    "TechnologyId": "76826fda-d4d3-4584-b59a-550c3f6a9f04",
-    "SubjectId": "",
+    "Title": "Kommunikationskanäle: Präsenzmeetings",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "56fa6e55-3e1f-4f4c-8bf4-00263f4177af",
+    "SubjectId": ""
+  },
+  {
+    "Id": "465221e8-6284-4cd3-95ad-c04b53c2476c",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/rwkjW3/l/de",
-    "Title": "Kommunikationskanäle: Online Meeting"
-  },
-  {
-    "Id": "b1453684-1868-4949-a6c0-75eaed4477fd",
-    "Source": "Soluzione",
-    "TechnologyId": "76826fda-d4d3-4584-b59a-550c3f6a9f04",
-    "SubjectId": "",
+    "Title": "Kommunikationskanäle: Online Meeting",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "56fa6e55-3e1f-4f4c-8bf4-00263f4177af",
+    "SubjectId": ""
+  },
+  {
+    "Id": "a31e533e-8397-45de-a8b6-517eec0752f9",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/2o0n71/l/de",
-    "Title": "Informations-/Dateiablage und Berechtigung: Einführung"
-  },
-  {
-    "Id": "9d00d937-0b0a-42bc-b504-553b1fd394ba",
-    "Source": "Soluzione",
-    "TechnologyId": "76826fda-d4d3-4584-b59a-550c3f6a9f04",
-    "SubjectId": "",
+    "Title": "Informations-/Dateiablage und Berechtigung: Einführung",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "56fa6e55-3e1f-4f4c-8bf4-00263f4177af",
+    "SubjectId": ""
+  },
+  {
+    "Id": "d82104dc-db77-4e9f-b070-2a794a30caf6",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/clPS3/l/de",
-    "Title": "Informations-/Dateiablage und Berechtigung: OneDrive"
-  },
-  {
-    "Id": "a98b5425-64c6-4c58-b897-b766948475c8",
-    "Source": "Soluzione",
-    "TechnologyId": "76826fda-d4d3-4584-b59a-550c3f6a9f04",
-    "SubjectId": "",
+    "Title": "Informations-/Dateiablage und Berechtigung: OneDrive",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "56fa6e55-3e1f-4f4c-8bf4-00263f4177af",
+    "SubjectId": ""
+  },
+  {
+    "Id": "0f08fbee-e222-4a5b-bcdc-b900ecaaedd0",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/ccYwo1/l/de",
-    "Title": "Informations-/Dateiablage und Berechtigung: Teams"
-  },
-  {
-    "Id": "355ca8a2-11d0-4ed7-93af-a01196ceb617",
-    "Source": "Soluzione",
-    "TechnologyId": "76826fda-d4d3-4584-b59a-550c3f6a9f04",
-    "SubjectId": "",
+    "Title": "Informations-/Dateiablage und Berechtigung: Teams",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "56fa6e55-3e1f-4f4c-8bf4-00263f4177af",
+    "SubjectId": ""
+  },
+  {
+    "Id": "19383c5b-c1f0-49cb-b895-374ad8ab4476",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/mshCL3/l/de",
-    "Title": "Informations-/Dateiablage und Berechtigung: OneNote"
-  },
-  {
-    "Id": "9db20546-5900-48df-8e87-63e6c0c0b0f0",
-    "Source": "Soluzione",
-    "TechnologyId": "76826fda-d4d3-4584-b59a-550c3f6a9f04",
-    "SubjectId": "",
+    "Title": "Informations-/Dateiablage und Berechtigung: OneNote",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "56fa6e55-3e1f-4f4c-8bf4-00263f4177af",
+    "SubjectId": ""
+  },
+  {
+    "Id": "dd62b6c6-8c76-4843-979b-f30d33189665",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/ZXUwi2/l/de",
-    "Title": "Aufgabenmanagement: Einführung"
-  },
-  {
-    "Id": "11177642-8613-4810-8092-9fa2665e824c",
-    "Source": "Soluzione",
-    "TechnologyId": "76826fda-d4d3-4584-b59a-550c3f6a9f04",
-    "SubjectId": "",
+    "Title": "Aufgabenmanagement: Einführung",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "56fa6e55-3e1f-4f4c-8bf4-00263f4177af",
+    "SubjectId": ""
+  },
+  {
+    "Id": "bc75f242-a513-47b2-9455-d6ad63bf4de9",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/nZzdP2/l/de",
-    "Title": "Aufgabenmanagement: Planner"
-  },
-  {
-    "Id": "924b38a7-c012-4b40-8d7e-cb507a0de2af",
-    "Source": "Soluzione",
-    "TechnologyId": "76826fda-d4d3-4584-b59a-550c3f6a9f04",
-    "SubjectId": "",
+    "Title": "Aufgabenmanagement: Planner",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "56fa6e55-3e1f-4f4c-8bf4-00263f4177af",
+    "SubjectId": ""
+  },
+  {
+    "Id": "6ebeaf48-abf3-4d4d-b51f-8eca6450a8c9",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/3rdtb/l/de",
-    "Title": "Aufgabenmanagement: To Do"
-  },
-  {
-    "Id": "a762c42a-f694-4bc1-b1fb-15b9c10be701",
-    "Source": "Soluzione",
-    "TechnologyId": "76826fda-d4d3-4584-b59a-550c3f6a9f04",
-    "SubjectId": "",
+    "Title": "Aufgabenmanagement: To Do",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "56fa6e55-3e1f-4f4c-8bf4-00263f4177af",
+    "SubjectId": ""
+  },
+  {
+    "Id": "1eecc9d8-01b0-442a-8a94-d7537c51f03f",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/en3eT0/l/de",
-    "Title": "Steuerung & Lenkung: Einführung"
-  },
-  {
-    "Id": "75cdebde-efeb-4b9d-887a-482aa4fa0cb2",
-    "Source": "Soluzione",
-    "TechnologyId": "76826fda-d4d3-4584-b59a-550c3f6a9f04",
-    "SubjectId": "",
+    "Title": "Steuerung & Lenkung: Einführung",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "56fa6e55-3e1f-4f4c-8bf4-00263f4177af",
+    "SubjectId": ""
+  },
+  {
+    "Id": "7310c4a3-6637-45a7-a8c2-8c90f25497ff",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/sXpog/l/de",
-    "Title": "Steuerung & Lenkung: Zusammenarbeit mit Externen"
-  },
-  {
-    "Id": "c8e8628b-6937-4435-936a-cbd732d9ae4d",
-    "Source": "Soluzione",
-    "TechnologyId": "76826fda-d4d3-4584-b59a-550c3f6a9f04",
-    "SubjectId": "",
+    "Title": "Steuerung & Lenkung: Zusammenarbeit mit Externen",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "56fa6e55-3e1f-4f4c-8bf4-00263f4177af",
+    "SubjectId": ""
+  },
+  {
+    "Id": "4a164d6a-0c10-40d5-abe3-6bd7724ec8d8",
+    "Source": "Microsoft",
     "Url": "https://azuretest.soluzione.de/go/to/e/eFXRM/s/IsuUU2/l/de",
-    "Title": "Steuerung & Lenkung - Lebenszyklus von Teams"
-  },
-  {
-    "Id": "d8407609-61b3-4d48-80ac-a3d83d0a62d0",
-    "Source": "Soluzione",
-    "TechnologyId": "",
-    "SubjectId": "",
+    "Title": "Steuerung & Lenkung - Lebenszyklus von Teams",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
-    "Url": "",
-    "Title": "Rundumflug soluzione42"
+    "TechnologyId": "56fa6e55-3e1f-4f4c-8bf4-00263f4177af",
+    "SubjectId": ""
   },
   {
-    "Id": "48c8855b-3adc-4569-b03c-75f4a35ceeae",
-    "Source": "Soluzione",
-    "TechnologyId": "",
-    "SubjectId": "",
+    "Id": "a9a1f48a-e5bd-45db-a158-98aa5224929e",
+    "Source": "Microsoft",
+    "Url": "",
+    "Title": "Rundumflug soluzione42",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
-    "Url": "",
-    "Title": "Durchstarten mit der soluzione42 App"
+    "TechnologyId": "",
+    "SubjectId": ""
   },
   {
-    "Id": "c7215cf5-c268-4986-80f9-a4ac39dcbce3",
-    "Source": "Soluzione",
-    "TechnologyId": "",
-    "SubjectId": "",
+    "Id": "6e101c42-fa3b-4cc4-9ec6-7470938e9adb",
+    "Source": "Microsoft",
+    "Url": "",
+    "Title": "Durchstarten mit der soluzione42 App",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
-    "Url": "",
-    "Title": "Empfehlungen und Tipps für die ersten Tage"
+    "TechnologyId": "",
+    "SubjectId": ""
   },
   {
-    "Id": "6df9e140-ff20-4297-8761-c4a28f828a9d",
-    "Source": "Soluzione",
-    "TechnologyId": "",
-    "SubjectId": "",
+    "Id": "2a63cb64-fd75-429a-8f8c-6d6aa0f270ed",
+    "Source": "Microsoft",
+    "Url": "",
+    "Title": "Empfehlungen und Tipps für die ersten Tage",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
-    "Url": "",
-    "Title": "Welche Tools für welchen Einsatz - Tool-Kompass"
+    "TechnologyId": "",
+    "SubjectId": ""
   },
   {
-    "Id": "03ff009a-84b2-41f8-9e5d-636a44b00d67",
-    "Source": "Soluzione",
-    "TechnologyId": "",
-    "SubjectId": "",
+    "Id": "ec03e002-bc68-4048-b638-a39e7733da90",
+    "Source": "Microsoft",
+    "Url": "",
+    "Title": "Welche Tools für welchen Einsatz - Tool-Kompass",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
-    "Url": "",
-    "Title": "Windows11"
+    "TechnologyId": "",
+    "SubjectId": ""
   },
   {
-    "Id": "e42d9e83-36fa-4767-b445-6c0cbe2de411",
-    "Source": "Soluzione",
-    "TechnologyId": "",
-    "SubjectId": "",
+    "Id": "db2cdef0-223f-4431-adcb-1a5d968028b0",
+    "Source": "Microsoft",
+    "Url": "",
+    "Title": "Windows11",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
-    "Url": "",
-    "Title": "Windows und Office 365 barrierefei"
+    "TechnologyId": "",
+    "SubjectId": ""
   },
   {
-    "Id": "ec91e6e2-dc49-40a8-afef-86492d357dfc",
-    "Source": "Soluzione",
-    "TechnologyId": "",
-    "SubjectId": "",
+    "Id": "24cecc10-4a03-471e-9100-391069e9b067",
+    "Source": "Microsoft",
+    "Url": "",
+    "Title": "Windows und Office 365 barrierefei",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
-    "Url": "",
-    "Title": "Word 365"
+    "TechnologyId": "",
+    "SubjectId": ""
   },
   {
-    "Id": "1a417065-89af-415a-8198-88b190976474",
-    "Source": "Soluzione",
-    "TechnologyId": "",
-    "SubjectId": "",
+    "Id": "4db57bbc-0124-41d2-a621-a1ed5322c06f",
+    "Source": "Microsoft",
+    "Url": "",
+    "Title": "Word 365",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
-    "Url": "",
-    "Title": "Excel 365"
+    "TechnologyId": "",
+    "SubjectId": ""
   },
   {
-    "Id": "3d3a0070-191a-4a83-8154-af64b44f3717",
-    "Source": "Soluzione",
-    "TechnologyId": "",
-    "SubjectId": "",
+    "Id": "ac48d775-1b0c-459d-849f-393a53b766e0",
+    "Source": "Microsoft",
+    "Url": "",
+    "Title": "Excel 365",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
-    "Url": "",
-    "Title": "PowerPoint 365"
+    "TechnologyId": "",
+    "SubjectId": ""
   },
   {
-    "Id": "132a7dcb-c7f0-4802-a3c5-7c3812b210c7",
-    "Source": "Soluzione",
-    "TechnologyId": "",
-    "SubjectId": "",
+    "Id": "331a0152-ce43-47fd-a983-1c6dafa668ff",
+    "Source": "Microsoft",
+    "Url": "",
+    "Title": "PowerPoint 365",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
-    "Url": "",
-    "Title": "Outlook 365"
+    "TechnologyId": "",
+    "SubjectId": ""
   },
   {
-    "Id": "180da6c5-6072-415f-8bf2-aec3a0c1c7e1",
-    "Source": "Soluzione",
-    "TechnologyId": "",
-    "SubjectId": "",
+    "Id": "6648c0f7-2d3f-4cc5-a9ae-7416c0f01b4b",
+    "Source": "Microsoft",
+    "Url": "",
+    "Title": "Outlook 365",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
-    "Url": "",
-    "Title": "Word Online"
+    "TechnologyId": "",
+    "SubjectId": ""
   },
   {
-    "Id": "88c5ced7-00df-4513-8988-f252c4e8eff7",
-    "Source": "Soluzione",
-    "TechnologyId": "",
-    "SubjectId": "",
+    "Id": "e6e5a6b2-9425-4fd2-8c7f-4e7cf736787a",
+    "Source": "Microsoft",
+    "Url": "",
+    "Title": "Word Online",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
-    "Url": "",
-    "Title": "Excel Online"
+    "TechnologyId": "",
+    "SubjectId": ""
   },
   {
-    "Id": "1dc6084c-d365-4e59-82a3-134e54f33f0b",
-    "Source": "Soluzione",
-    "TechnologyId": "",
-    "SubjectId": "",
+    "Id": "fa99ad06-57ad-4995-895a-d122b6f48635",
+    "Source": "Microsoft",
+    "Url": "",
+    "Title": "Excel Online",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
-    "Url": "",
-    "Title": "PowerPoint Online"
+    "TechnologyId": "",
+    "SubjectId": ""
   },
   {
-    "Id": "c8f924d5-f1d0-4121-86e4-7624dd626180",
-    "Source": "Soluzione",
-    "TechnologyId": "",
-    "SubjectId": "",
+    "Id": "b76ed285-02c7-47f9-a66c-a4c384e763ca",
+    "Source": "Microsoft",
+    "Url": "",
+    "Title": "PowerPoint Online",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
-    "Url": "",
-    "Title": "Outlook Online"
+    "TechnologyId": "",
+    "SubjectId": ""
   },
   {
-    "Id": "6672d81c-85db-4f14-867b-827d104c5fba",
-    "Source": "Soluzione",
-    "TechnologyId": "",
-    "SubjectId": "",
+    "Id": "3bd8d6de-a061-4e1c-90c4-49e6afa245da",
+    "Source": "Microsoft",
+    "Url": "",
+    "Title": "Outlook Online",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
-    "Url": "",
-    "Title": "OneDrive mit Windows 11"
+    "TechnologyId": "",
+    "SubjectId": ""
   },
   {
-    "Id": "21f4e546-2ed6-4206-b301-34e9c18b082d",
-    "Source": "Soluzione",
-    "TechnologyId": "",
-    "SubjectId": "",
+    "Id": "a178d196-4990-42b1-978d-55aa8542f993",
+    "Source": "Microsoft",
+    "Url": "",
+    "Title": "OneDrive mit Windows 11",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
-    "Url": "",
-    "Title": "Planner"
+    "TechnologyId": "",
+    "SubjectId": ""
   },
   {
-    "Id": "8cda08cd-7689-445f-9f99-1443fd3e2cfa",
-    "Source": "Soluzione",
-    "TechnologyId": "",
-    "SubjectId": "",
+    "Id": "150d1c13-89b8-48d0-b5e9-d9a7d1f6958f",
+    "Source": "Microsoft",
+    "Url": "",
+    "Title": "Planner",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
-    "Url": "",
-    "Title": "SharePoint"
+    "TechnologyId": "",
+    "SubjectId": ""
   },
   {
-    "Id": "a8f930d1-0109-4784-a06d-8db7f5037e72",
-    "Source": "Soluzione",
-    "TechnologyId": "",
-    "SubjectId": "",
+    "Id": "0971ee74-4cae-4c00-ae7c-a4330e622a0a",
+    "Source": "Microsoft",
+    "Url": "",
+    "Title": "SharePoint",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
-    "Url": "",
-    "Title": "Yammer"
+    "TechnologyId": "",
+    "SubjectId": ""
   },
   {
-    "Id": "b0d5e53f-003f-4af9-b996-fcac8e4c2480",
-    "Source": "Soluzione",
-    "TechnologyId": "",
-    "SubjectId": "",
+    "Id": "3382030a-a85a-4f46-a1fa-eb62872df524",
+    "Source": "Microsoft",
+    "Url": "",
+    "Title": "Yammer",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
-    "Url": "",
-    "Title": "Whiteboard"
+    "TechnologyId": "",
+    "SubjectId": ""
   },
   {
-    "Id": "88d6eae1-582e-40ee-942f-90dc1030dd3a",
-    "Source": "Soluzione",
-    "TechnologyId": "",
-    "SubjectId": "",
+    "Id": "38f0bb72-fa89-4ef6-8425-d4abfc66720f",
+    "Source": "Microsoft",
+    "Url": "",
+    "Title": "Whiteboard",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
-    "Url": "",
-    "Title": "Forms"
+    "TechnologyId": "",
+    "SubjectId": ""
   },
   {
-    "Id": "ad77d896-c6ac-458c-b462-7d025e38b6fc",
-    "Source": "Soluzione",
-    "TechnologyId": "",
-    "SubjectId": "",
+    "Id": "a42cb815-4b70-4897-b402-f599b2bd965d",
+    "Source": "Microsoft",
+    "Url": "",
+    "Title": "Forms",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
-    "Url": "",
-    "Title": "Find Time"
+    "TechnologyId": "",
+    "SubjectId": ""
   },
   {
-    "Id": "abc12e84-9cb1-40a7-8a2e-8ef17e8ee0a7",
-    "Source": "Soluzione",
-    "TechnologyId": "",
-    "SubjectId": "",
+    "Id": "8c9a54e4-75b3-425a-8247-0da40a33f830",
+    "Source": "Microsoft",
+    "Url": "",
+    "Title": "Find Time",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
-    "Url": "",
-    "Title": "To Do"
+    "TechnologyId": "",
+    "SubjectId": ""
   },
   {
-    "Id": "4e978a6e-272c-4759-af2a-ce51d0cef21f",
-    "Source": "Soluzione",
-    "TechnologyId": "",
-    "SubjectId": "",
+    "Id": "7a352737-da7a-4b36-8ced-150c7befb47d",
+    "Source": "Microsoft",
+    "Url": "",
+    "Title": "To Do",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
-    "Url": "",
-    "Title": "Umstieg von Skype zu Teams"
+    "TechnologyId": "",
+    "SubjectId": ""
   },
   {
-    "Id": "c3946dbd-c0f4-4238-a2a1-09f56987e062",
-    "Source": "Soluzione",
-    "TechnologyId": "",
-    "SubjectId": "",
+    "Id": "9972a321-e794-44cf-9c98-ef9dbcdb0e1c",
+    "Source": "Microsoft",
+    "Url": "",
+    "Title": "Umstieg von Skype zu Teams",
     "Description": "",
     "StatusTagId": "",
     "StatusNote": "",
+    "TechnologyId": "",
+    "SubjectId": ""
+  },
+  {
+    "Id": "e2bfcd1c-f9f8-4e16-8d06-5c239ec73627",
+    "Source": "Microsoft",
     "Url": "",
-    "Title": "Windows11"
+    "Title": "Windows11",
+    "Description": "",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "TechnologyId": "",
+    "SubjectId": ""
   }
 ]
